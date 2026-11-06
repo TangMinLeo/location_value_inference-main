@@ -1,0 +1,22 @@
+
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 异步HTTP请求
+aiohttp>=3.9.0
+
+# 环境变量管理
+python-dotenv>=1.0.0
+
+# 文本相似度评估
+rouge-score>=0.1.2
+
+# 文本嵌入模型（本地语义向量）
+sentence-transformers>=2.2.0
+
+# 进度条
+tqdm>=4.66.0
+
+# Excel文件处理
+openpyxl

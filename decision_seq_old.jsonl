@@ -1,0 +1,516 @@
+{
+  "agent_id": "000107f9-6464-483d-a274-6a6f54b56ec9",
+  "sub_scenario": "入场",
+  "seat_id": "V112",
+  "destinations": [
+    {
+      "location_id": "V112",
+      "reason": "routine偏好最高且responsibility较强，应按标准入场路线直接前往3F B区V112包厢座位，优先确认通道与座位。"
+    }
+  ],
+  "rationale": "主要驱动维度为routine(+1.00)和responsibility(+0.59)：routine要求按规律直接入场，responsibility要求按指引有序入场并优先确认座位与通道；curiosity仅为+0.50，不足以覆盖更强的守规律与责任偏好，因此不绕行商店、环廊或餐饮区，最终直接到达座位V112。"
+}
+{
+  "agent_id": "00007a02-54e1-4a9f-adda-0710d63b88bd",
+  "sub_scenario": "入场",
+  "seat_id": "V203",
+  "destinations": [
+    {
+      "location_id": "V203",
+      "reason": "娱乐价值偏好最高，当前最优先尽快入座等待演出开始；虽然社交偏好中等，但不足以在距演出开始25分钟时绕行人群聚集区。"
+    }
+  ],
+  "rationale": "本决策主要由 entertainment(pref=+1.00) 驱动，该偏好强烈要求尽快入座等待演出开始。quiet(pref=+0.25) 与 routine(pref=+0.25) 也支持选择直接、标准入场路径，避免绕行造成额外排队或时间消耗。social(pref=+0.37) 虽有一定社交倾向，但强度不足以覆盖娱乐价值主导的尽快入座目标，因此不选择公共环廊、餐饮柜台等人群聚集处绕行，最终直接前往座位 V203。"
+}
+{
+  "agent_id": "000013ab-76dc-3bdb-a3b5-69671fa4f6ad",
+  "sub_scenario": "入场",
+  "seat_id": "A605",
+  "destinations": [
+    {
+      "location_id": "A605",
+      "reason": "按标准入场路线直接前往7F A区 A605 座位入座，避免额外绕行以符合守规律与有序入场偏好。"
+    }
+  ],
+  "rationale": "决策主要由 routine(+1.00) 与 responsibility(+0.55) 驱动：routine 偏好最高，要求按标准入场路线直接到座位；responsibility 次高，强调按指引有序入场并优先确认座位与通道。health(+0.49) 虽提示可就近使用卫生间或休息区，但其强度低于 routine 且会延长路径，因此不作为绕行理由。当前距演出25分钟，且 entertainment 为负偏好(-0.14)，尽快入座等待开始最符合该智能体的价值偏好与入场目标。"
+}
+{
+  "agent_id": "000020c4-04f5-3125-8bf2-0cf1ca41a221",
+  "sub_scenario": "入场",
+  "seat_id": "V133",
+  "destinations": [
+    {
+      "location_id": "V133",
+      "reason": "按标准入场路线直接前往3F C区包厢观赛座席区，确认通道后入座，不在公共区域停留。"
+    }
+  ],
+  "rationale": "由 routine(+1.00) 与 responsibility(+0.54) 主导决策：规律性和责任感均要求按标准、有序路线入场并优先确认座位与通道；curiosity(+0.31)、social(+0.19) 等较低且不足以覆盖高规律偏好，因此选择直接前往座位 V133，不绕行商店、环廊或餐饮区。30-34岁工厂蓝领工属性也倾向准时高效，但仅作为次要微调，不与价值偏好冲突。"
+}
+{
+  "agent_id": "0000b713-45d0-ecfa-e16e-7b07e720d05d",
+  "sub_scenario": "入场",
+  "seat_id": "V133",
+  "destinations": [
+    {
+      "location_id": "V133",
+      "reason": "按照标准入场路线直接前往自己的座位，优先确保按时入场和秩序。"
+    }
+  ],
+  "rationale": "该智能体的 routine 偏好最高（+1.00），responsibility 偏好也较强（+0.50），因此优先采用守规律、按指引有序入场的行为模式，不额外绕行。虽然 curiosity 偏好为 +0.58 且距演出开始还有25分钟，但低于 routine 的影响强度，不足以改变直接入座的决策。"
+}
+{
+  "agent_id": "000112e9-885f-308c-918a-a648868713b7",
+  "sub_scenario": "入场",
+  "seat_id": "V207",
+  "destinations": [
+    {
+      "location_id": "V207",
+      "reason": "routine 偏好极高（+1.00），responsibility 偏好较强（+0.47），应按标准入场路线直接有序前往座位，减少绕行并优先确认座位与通道。"
+    }
+  ],
+  "rationale": "本次决策主要由 routine(+1.00) 驱动，responsibility(+0.47) 作为第二驱动因素：routine 要求遵循规律、按标准入场路线行动，responsibility 强调有序入场并优先确认座位与通道。虽然 health(+0.36) 与 curiosity(+0.34) 存在一定正偏好，但强度低于 routine，且 50-54 岁属性倾向选择更短路径，因此不安排商店、环廊或餐饮区绕行，直接前往座位 V207。"
+}
+{
+  "agent_id": "0003b9f3-b86d-3655-9f00-c22e188bc26e",
+  "sub_scenario": "入场",
+  "seat_id": "V117",
+  "destinations": [
+    {
+      "location_id": "V117",
+      "reason": "按标准入场路线直接前往3F B区V117座位，确保有序入座并避免入场阶段不必要绕行"
+    }
+  ],
+  "rationale": "routine(+1.00)为最高价值偏好，且responsibility(+0.37)也提示应按指引有序入场、优先确认座位与通道；curiosity(+0.53)虽达到可绕行阈值，但在当前25分钟距开始时间下，routine的强约束应优先满足，因此不选择餐饮、环廊等公共区域绕行，直接前往座位。"
+}
+{
+  "agent_id": "00028d93-607a-4516-8905-002c438622ee",
+  "sub_scenario": "入场",
+  "seat_id": "V103",
+  "destinations": [
+    {
+      "location_id": "V103",
+      "reason": "基于强 routine 偏好与 responsibility 偏好，按标准入场路线直接前往座位，确保按时有序入座。"
+    }
+  ],
+  "rationale": "最高价值维度为 routine(+1.00)，其次是 responsibility(+0.46) 与 curiosity(+0.42)。routine 强烈驱动按既定路线直接入场，responsibility 进一步支持优先确认座位与通道；虽然 curiosity 达到可绕行阈值，但低于 routine，因此不选择绕行商店、公共环廊或餐饮区，直接前往 V103 座位。"
+}
+{
+  "agent_id": "000107f9-6464-483d-a274-6a6f54b56ec9",
+  "sub_scenario": "入场",
+  "seat_id": "V112",
+  "destinations": [
+    {
+      "location_id": "V112",
+      "reason": "routine偏好最强且responsibility次高，按标准入场路线有序前往座位，不绕行公共区域。"
+    }
+  ],
+  "rationale": "主要驱动维度为routine(+1.00)与responsibility(+0.59)：前者要求按标准路线直接入座，后者要求按指引确认座位与通道。curiosity(+0.50)虽有一定绕行吸引力，但低于routine/responsibility且当前任务为入场寻找座位，因此选择不中转，直接前往座位V112。"
+}
+{
+  "agent_id": "00007a02-54e1-4a9f-adda-0710d63b88bd",
+  "sub_scenario": "入场",
+  "seat_id": "V203",
+  "destinations": [
+    {
+      "location_id": "5",
+      "reason": "在入场途中顺路到2F餐饮柜台服务区快速购买饮料，为观演做准备，避免长时间停留。"
+    },
+    {
+      "location_id": "V203",
+      "reason": "完成快速补给后按标准入场路线前往5F A区包厢V203入座。"
+    }
+  ],
+  "rationale": "entertainment(+1.00)是最强偏好，希望尽快获得完整观演体验，因此只允许最简短顺路补给而不绕去商店或休息区；social(+0.37)未达强偏好，且quiet(+0.25)与routine(+0.25)为正，倾向避免长时间拥挤闲逛，因此选择出餐快的餐饮柜台服务区而非公共环廊或餐饮服务区；curiosity(+0.21)较低，距演出开始17分钟也足够完成入场，因此最终目的地为座位V203。"
+}
+{
+  "agent_id": "000013ab-76dc-3bdb-a3b5-69671fa4f6ad",
+  "sub_scenario": "入场",
+  "seat_id": "A605",
+  "destinations": [
+    {
+      "location_id": "A605",
+      "reason": "按标准入场路线直接前往7F A区空中看台座位，优先确认座位与通道"
+    }
+  ],
+  "rationale": "routine(+1.00)和responsibility(+0.55)为最强价值，要求守规律、按指引有序入场并优先确认座位；health(+0.49)虽偏好休息/卫生间但强度次之，且距演出开始仅11分钟，绕行会增加迟到风险，因此选择直达座位。"
+}
+{
+  "agent_id": "000020c4-04f5-3125-8bf2-0cf1ca41a221",
+  "sub_scenario": "入场",
+  "seat_id": "V133",
+  "destinations": [
+    {
+      "location_id": "V133",
+      "reason": "按标准入场路线直接前往座位，避免绕行，确保准时有序入场"
+    }
+  ],
+  "rationale": "该智能体最高价值偏好为 routine(+1.00)，其次是 responsibility(+0.54)，均属于强烈正向偏好，因此优先采用守规律、按指引有序入场的行为模式；虽然 curiosity 为 +0.31，但不足以覆盖 routine 与 responsibility 的强约束，且入场目标必须最终到达座位，因此不安排绕行，直接前往 V133 座位区。"
+}
+{
+  "agent_id": "0000b713-45d0-ecfa-e16e-7b07e720d05d",
+  "sub_scenario": "入场",
+  "seat_id": "V133",
+  "destinations": [
+    {
+      "location_id": "V133",
+      "reason": "守规律偏好最强，且责任偏好要求按指引有序入场、优先确认座位，因此从体育馆外广场沿标准入场路线直接前往座位。"
+    }
+  ],
+  "rationale": "本决策由 routine(+1.00) 主导，responsibility(+0.50) 支持按标准入场路线直接入座；虽然 curiosity(+0.58) 在演出前27分钟允许轻微绕行，但其强度低于 routine，且工厂蓝领工属性更倾向规律、低耗时的入场方式，因此不选择公共环廊、餐饮柜台服务区等绕行点，直接前往 V133。"
+}
+{
+  "agent_id": "000112e9-885f-308c-918a-a648868713b7",
+  "sub_scenario": "入场",
+  "seat_id": "V207",
+  "destinations": [
+    {
+      "location_id": "V207",
+      "reason": "按标准入场路线直接前往座位，减少不必要绕行。"
+    }
+  ],
+  "rationale": "该智能体 routine(守规律) 为 +1.00，是最强价值维度，且 responsibility(责任) 为 +0.47，支持按指引有序入场并优先确认座位；health(健康) 为 +0.36 属于次级因素，但不足以改变守规律带来的直接入座策略。当前距演出开始25分钟，时间充足，但价值偏好要求保持规律和秩序，因此选择最短、最标准的入场路径直接前往座位 V207。"
+}
+{
+  "agent_id": "0003b9f3-b86d-3655-9f00-c22e188bc26e",
+  "sub_scenario": "入场",
+  "seat_id": "V117",
+  "destinations": [
+    {
+      "location_id": "8",
+      "reason": "沿标准入场路线经过2F公共环廊区域，既保持有序入场，又满足好奇驱动下的环境探索，且距演出24分钟时间允许。"
+    },
+    {
+      "location_id": "V117",
+      "reason": "按入场路线前往3F B区V117包厢观赛座席区，完成就座。"
+    }
+  ],
+  "rationale": "routine(+1.00)为最高价值，决定采用标准入场路线并避免长耗时绕行；curiosity(+0.53)高于0.5且距演出24分钟大于15分钟，因此选择顺路经过公共环廊区域这一通道型公共空间，轻度满足好奇而不打乱规律入场；responsibility(+0.37)进一步支持按通道有序确认座位，social(+0.36)对公共环廊的热闹氛围有轻微正向作用。最终行为模式为：沿标准入场环廊短暂经过后直达座位。"
+}
+{
+  "agent_id": "00028d93-607a-4516-8905-002c438622ee",
+  "sub_scenario": "入场",
+  "seat_id": "V103",
+  "destinations": [
+    {
+      "location_id": "V103",
+      "reason": "routine 偏好最高且为强正值，应直接按标准入场路线前往座位；responsibility 偏好也支持有序入场并优先确认自己的座位与通道，因此不再绕行公共区域。"
+    }
+  ],
+  "rationale": "该智能体的价值偏好中 routine 为 +1.00，是绝对值最高且明显超过 0.5 的维度，主导决策为直接前往座位 V103；responsibility 为 +0.46，支持按指引有序入场并确认座位区域，但不要求额外前往商店或人群聚集处；curiosity 为 +0.42，虽然距演出开始超过 15 分钟且可能诱发绕行，但其强度低于 routine，且 routine 强烈偏好规律与标准路线，因此不触发绕行。最终选择直接前往座位，符合入场阶段最终必须到达 V103 的要求。"
+}
+{
+  "agent_id": "00053909-7828-38df-a06f-40b2245ee943",
+  "sub_scenario": "入场",
+  "seat_id": "V138",
+  "destinations": [
+    {
+      "location_id": "V138",
+      "reason": "按标准入场路线直接前往3F C区包厢内部活动区座位"
+    }
+  ],
+  "rationale": "routine(1.00)是最高价值维度，且responsibility(0.48)支持按指引有序入场、优先确认座位与通道，因此选择最标准、最短的直接入座路线；curiosity(0.68)虽然超过0.5，但强度低于routine，且45-49岁属性偏好更短路径，所以不额外绕行公共区域或商店。"
+}
+{
+  "agent_id": "00041539-1829-47b5-acf4-0e837973a087",
+  "sub_scenario": "入场",
+  "seat_id": "V212",
+  "destinations": [
+    {
+      "location_id": "V212",
+      "reason": "routine 偏好为 +1.00，最高且超过 0.5，按标准入场路线直接前往座位；responsibility +0.47 支持有序入场，social +0.48 未强到需要绕行，距演出开始 16 分钟足够入座。"
+    }
+  ],
+  "rationale": "本决策由 routine(+1.00) 主导，并受到 responsibility(+0.47) 和 social(+0.48) 的次要影响。routine 强烈驱动智能体按规律路径直接前往 V212，不经过商店、餐饮或公共环廊等绕行区域；social 虽有中等强度，但未达到必须优先绕行的阈值，且与 routine 冲突时以 routine 为准。距演出开始 16 分钟，直接入座可满足入场任务。"
+}
+{
+  "agent_id": "00059422-07d2-3c9a-b37c-5b58c6ee5102",
+  "sub_scenario": "入场",
+  "seat_id": "V151",
+  "destinations": [
+    {
+      "location_id": "8",
+      "reason": "距演出开始尚有53分钟，curiosity=+0.74 驱动在标准入场路径上短暂经过2F公共环廊区域，便于确认3F A/D区包厢通道并观察入场环境；相比商店或餐饮排队，该选择更符合 routine 与 responsibility 的有序高效入场需求。"
+    },
+    {
+      "location_id": "V151",
+      "reason": "routine=+1.00 与 responsibility=+0.55 要求按标准入场路线有序、快速到达指定座位，因此最终前往自己的座位 V151。"
+    }
+  ],
+  "rationale": "决策主要由 routine(+1.00)、curiosity(+0.74) 和 responsibility(+0.55) 驱动。routine 与 responsibility 要求避免长时间购物或排队，选择短且有序的路径；curiosity 在距演出超过15分钟的条件下，允许选择公共环廊区域作为短暂中转，用于确认包厢通道并满足好奇需求。该路线只增加一个低耗时公共区域，不违背守规律与有序入场的核心偏好，并最终必须到达座位 V151。"
+}
+{
+  "agent_id": "0007e134-4f48-4b65-9661-6e74792c3a8f",
+  "sub_scenario": "入场",
+  "seat_id": "A103",
+  "destinations": [
+    {
+      "location_id": "A103",
+      "reason": "routine和responsibility偏好最高，按标准入场路线有序入场，57分钟虽充足但优先确认座位并提前入座，不进行额外绕行。"
+    }
+  ],
+  "rationale": "高偏好维度为routine(+1.00)和responsibility(+0.52)，符合入场阶段‘按标准入场路线直接到座位’与‘按指引有序入场、优先确认座位与通道’的模式；social(+0.37)与curiosity(+0.36)均未超过0.5，不足以驱动绕行商店或公共环廊；health(+0.25)和quiet(+0.15)较弱，不需要中途休息或避噪；职业为政府工作人员且年龄段25-29岁，倾向守秩序、按流程行动，因此选择直接前往座位A103。"
+}
+{
+  "agent_id": "0007fcf3-34fb-4e08-bcfe-38d5b5990a61",
+  "sub_scenario": "入场",
+  "seat_id": "V150",
+  "destinations": [
+    {
+      "location_id": "V150",
+      "reason": "直接沿标准入场路线前往3F D区包厢观赛座席区V150，优先确认座位与通道，不绕行公共区域。"
+    }
+  ],
+  "rationale": "该智能体routine=+1.00为最高强偏好，responsibility=+0.39次高，curiosity=+0.38虽存在但低于0.5且不足以覆盖routine；social、quiet、health均较低，entertainment为负值。因此匹配routine高且responsibility高的行为模式：按标准/有序入场路线直接前往座位。20-24岁自由职业者可能有一定消费或绕行倾向，但不允许覆盖强守规律与有序入场需求；距演出开始44分钟虽充足，也选择直接入座以避免无序停留。"
+}
+{
+  "agent_id": "000526ce-f18d-34a3-804b-0e5f96a5d392",
+  "sub_scenario": "入场",
+  "seat_id": "V206",
+  "destinations": [
+    {
+      "location_id": "V206",
+      "reason": "routine守规律偏好最高且距演出开始仅15分钟，选择按标准入场路线直接前往座位，避免绕行影响入座。"
+    }
+  ],
+  "rationale": "该智能体的价值偏好中 routine(+1.00) 绝对值最高且强度最强，responsibility(+0.24) 也支持按指引有序入场；family(+0.38) 与 social(+0.36) 未达到强烈绕行阈值，且当前距演出开始为15分钟，需要保证按时入座。因此采用 routine 高偏好对应的直接入座行为模式，不选择商店、餐饮区或公共环廊等绕行点，直接前往座位 V206。"
+}
+{
+  "agent_id": "00084b59-2df9-3d1d-a53a-3fb954564b47",
+  "sub_scenario": "入场",
+  "seat_id": "V138",
+  "destinations": [
+    {
+      "location_id": "V138",
+      "reason": "按标准入场路线直接前往自己的包厢座位，优先保证按时入座和入场秩序。"
+    }
+  ],
+  "rationale": "该智能体 routine(守规律) 偏好最高且为 +1.00，responsibility(责任) 为 +0.35，整体表现为重视规律、有序入场和按时入座。虽然 curiosity(好奇) 为 +0.51，但强度明显低于 routine，且年龄 35-39 岁、职业为工厂蓝领工，入场阶段更倾向于按既定路线完成入场而非绕行消费或闲逛。因此选择直接前往座位 V138，不安排商店、餐饮、环廊等中转目的地。"
+}
+{
+  "agent_id": "00091da3-7668-42f9-8c7a-89dccd97be21",
+  "sub_scenario": "入场",
+  "seat_id": "V108",
+  "destinations": [
+    {
+      "location_id": "8",
+      "reason": "沿标准入场动线先经过2F公共环廊，满足social社交偏好并观察人流与通道，不额外闲逛或停留"
+    },
+    {
+      "location_id": "V108",
+      "reason": "按routine守规律与responsibility有序入场偏好，尽快前往3F A区包厢座位"
+    }
+  ],
+  "rationale": "高价值维度为routine(1.00)和social(0.57)，次级为responsibility(0.35)。routine最强，因此选择标准入场路线、不长时间偏离主路径；social高于0.5且当前外广场与入场动线人员较多，因此顺路经过公共环廊区域作为唯一中转，兼顾社交需求。responsibility支持按指引确认通道并有序入座。health(0.34)、curiosity(0.46)、family(0.27)等未形成更高驱动，且45-49岁与医院工作人员属性倾向较短路径，因此不选择商店或餐饮绕行，最终必须到达座位V108。"
+}
+{
+  "agent_id": "000930e8-472c-37fc-80ff-5383de254a95",
+  "sub_scenario": "入场",
+  "seat_id": "V116",
+  "destinations": [
+    {
+      "location_id": "V116",
+      "reason": "按标准入场路线直接前往座位，优先确认座位与通道，在距演出开始12分钟时不安排绕行，确保准时入场入座。"
+    }
+  ],
+  "rationale": "该智能体的最高价值偏好是 routine(守规律, +1.00)，其次是 curiosity(好奇, +0.50) 与 responsibility(责任, +0.45)。routine 高偏好明确要求按标准入场路线直接到座位；responsibility 高偏好进一步支持按指引有序入场并优先确认座位与通道。虽然 curiosity 为 +0.50，但当前距演出开始只有12分钟，不满足‘距演出>15分钟’才绕行的条件；同时 social 为 -0.18，不适合额外前往人群聚集区域。因此选择直接前往 V116，不绕行。"
+}
+{
+  "agent_id": "000a107b-456d-416e-a568-fc45d8a5c5fc",
+  "sub_scenario": "入场",
+  "seat_id": "V102",
+  "destinations": [
+    {
+      "location_id": "V102",
+      "reason": "距演出开始仅11分钟，routine与responsibility偏好较高，应按标准入场路线直接前往座位，优先确认座位与通道。"
+    }
+  ],
+  "rationale": "本决策主要由 routine(+1.00) 和 responsibility(+0.57) 驱动：routine 偏好最高，适合按标准入场流程直接入座；responsibility 偏好较高，倾向于有序入场并优先确认座位与通道。虽然 curiosity(+0.60) 也较强，但距演出开始不足15分钟，不满足先绕行商店或走廊再入座的时间条件；social(+0.46) 不够强且现场时间紧张，不宜前往公共环廊或餐饮柜台等人流区域。因此选择直接前往座位 V102。"
+}
+{
+  "agent_id": "0009d0bb-63ad-338f-9ed1-68239bc0981e",
+  "sub_scenario": "入场",
+  "seat_id": "A101",
+  "destinations": [
+    {
+      "location_id": "A101",
+      "reason": "routine偏好最高，按标准入场路线直接前往座位，确保在开场前入座并优先确认座位与通道"
+    }
+  ],
+  "rationale": "主导价值为routine(+1.00)，其次是curiosity(+0.56)。由于距演出开始为15分钟，不满足curiosity绕行所需的大于15分钟条件；responsibility(+0.41)与quiet(+0.22)也支持不进入拥挤区域、按指引快速有序入场，因此不绕行，直接前往座位A101。"
+}
+{
+  "agent_id": "0009ffa3-38b8-4435-91f4-b94be6225640",
+  "sub_scenario": "入场",
+  "seat_id": "C610",
+  "destinations": [
+    {
+      "location_id": "2",
+      "reason": "在入馆后选择靠近7F C区的餐饮休息区作短暂停留，满足好奇探索但不偏离标准入场路线；该区域人流中等，较符合安静偏好，且距离座位较近，适合中老年路径更短的微调。"
+    },
+    {
+      "location_id": "C610",
+      "reason": "最终必须前往并找到自己的座位C610，以便在演出开始前完成入座。"
+    }
+  ],
+  "rationale": "本次决策主要由routine(+1.00)驱动，要求按标准、有序、不额外耗时的方式入场，因此不选择耗时最长的外商店，也不进入人流量最大的公共环廊或餐饮柜台。curiosity(+0.54)也超过0.5且距演出开始23分钟大于15分钟，因此允许并选择一个轻度绕行点；选择餐饮休息区是因为它既符合curiosity规则的可选类型，又靠近C610所在的C区看台，停留时间短、路径较短。quiet(+0.38)与social(-0.23)使该智能体回避热闹拥挤区域，选择人流中等的餐饮休息区而非公共环廊或餐饮柜台。health(+0.30)与50-54岁属性进一步支持选择近处休息区作为短暂停留点。entertainment(+0.45)也要求尽快入座等待演出，因此整体路线保持简短有序，并最终到达座位C610。"
+}
+{
+  "agent_id": "000b9b68-b635-40b8-8684-7d5b829a98e6",
+  "sub_scenario": "入场",
+  "seat_id": "D120",
+  "destinations": [
+    {
+      "location_id": "D120",
+      "reason": "routine 价值偏好最高且 responsibility 也较强，按标准入场路线有序直接前往自己的座位，不额外绕行。"
+    }
+  ],
+  "rationale": "本次决策主要由 routine(+1.00) 驱动，responsibility(+0.49) 作为次要支持价值，共同指向按标准入场路线直接入座。虽然 social(+0.54) 也达到较高水平，但 routine 的偏好强度最高且明确规则为按标准入场路线直接到座位，因此不选择公共环廊、餐饮柜台等人群聚集处绕行。年龄与职业只作微调，不改变由 routine 主导的直接入场行为。"
+}
+{
+  "agent_id": "00098761-8b1b-436e-b8f4-02b83b92e78f",
+  "sub_scenario": "入场",
+  "seat_id": "V216",
+  "destinations": [
+    {
+      "location_id": "V216",
+      "reason": "routine 价值强度最高（+1.00），且 responsibility（+0.37）支持按有序入场路线直接前往座位，因此不选择绕行公共区域。"
+    }
+  ],
+  "rationale": "本智能体价值偏好中 routine 为最强正向驱动（+1.00），对应入场规则中的‘按标准入场路线直接到座位’；responsibility（+0.37）也偏向按指引有序入场、优先确认座位与通道，因此选择直接前往最终座位 V216。social（+0.29）和 curiosity（+0.15）虽为正向，但强度不足以覆盖 routine 的主导作用；entertainment（-0.19）为轻微负向，也不支持在演出开始前绕去热闹区域消费或闲逛。综合判断，入场阶段应直接入座，不安排额外中转目的地。"
+}
+{
+  "agent_id": "000bc0a3-b334-4bd0-b8e5-c3cbcbdb8171",
+  "sub_scenario": "入场",
+  "seat_id": "V111",
+  "destinations": [
+    {
+      "location_id": "V111",
+      "reason": "按标准入场路线从体育馆外广场进入场馆，直接前往3F A/B区V111包厢座位，优先确认通道与座位信息。"
+    }
+  ],
+  "rationale": "该智能体最强价值偏好是routine(+1.00)，其次是curiosity(+0.75)。入场阶段中，routine要求按标准入场路线直接到座位，responsibility(+0.40)也支持按指引有序入场、优先确认座位与通道；虽然curiosity较高且距开始有48分钟，但routine强度更高，因此不选择绕行商店、公共环廊或餐饮区域，直接前往座位。"
+}
+{
+  "agent_id": "000cef77-eb61-4da9-86cf-494fb78c45ed",
+  "sub_scenario": "入场",
+  "seat_id": "V112",
+  "destinations": [
+    {
+      "location_id": "V112",
+      "reason": "按标准入场路线直接前往 3F B 区 V112 包厢入座，确保演出开始前完成落座。"
+    }
+  ],
+  "rationale": "该智能体最高价值偏好为 routine(守规律, +1.00)，其次为 responsibility(责任, +0.54)，两者均强烈指向按标准入场路线有序、直接前往座位；距演出开始仅 11 分钟，不满足 curiosity(好奇, +0.42) 所需的距演出大于 15 分钟绕行条件，social(社交, +0.46) 也未超过高优先级的 routine 与 responsibility，因此不进行商店、餐饮、公共环廊等绕行。40-44 岁年龄段也倾向选择更短、更稳妥的入场路径。最终选择直接前往 V112 包厢座位。"
+}
+{
+  "agent_id": "000d2c9e-06de-45dd-baaa-400a82586d4e",
+  "sub_scenario": "入场",
+  "seat_id": "V150",
+  "destinations": [
+    {
+      "location_id": "8",
+      "reason": "距演出开始45分钟，social(+0.79)与curiosity(+0.63)较强，选择2F公共环廊作为标准入场通道上的唯一短暂停留点，在人流中获取现场感并观察路线，避免商店或餐饮区造成的额外耗时。"
+    },
+    {
+      "location_id": "V150",
+      "reason": "routine(+1.00)与responsibility(+0.63)要求按规律、有序入场并最终确认座位，因此沿环廊前往3F D区V150包厢吧台周边活动区入座。"
+    }
+  ],
+  "rationale": "本智能体最高价值偏好为routine(+1.00)，因此选择偏离最小的标准入场路径；第二高social(+0.79)与curiosity(+0.63)驱动在2F公共环廊短暂经过/停留，以满足社交与好奇需求；responsibility(+0.63)支持按通道标识有序寻找并确认座位。整体采用一个中转、最终准点到V150座位的策略。"
+}
+{
+  "agent_id": "000d484d-5a91-4578-b861-04061c6e7d2d",
+  "sub_scenario": "入场",
+  "seat_id": "V112",
+  "destinations": [
+    {
+      "location_id": "V112",
+      "reason": "routine(守规律)为最高偏好(+1.00)，匹配入场规则中“按标准入场路线直接到座位”；当前距开始22分钟，直接前往3F B区V112包厢可保证按时入座。"
+    }
+  ],
+  "rationale": "决策由最高价值维度routine(+1.00)主导，因此选择不绕行的标准入场路线；entertainment(+0.63)支持尽快入座等待演出，social(+0.67)虽强，但为避免外广场与2F高人流区域延长入场时间、违背最强routine偏好，暂不前往餐饮柜台或公共环廊。无负向偏好触发回避，最终目的地必须且仅为座位V112。"
+}
+{
+  "agent_id": "000d8681-bd28-4b80-8a60-757d0bec7f38",
+  "sub_scenario": "入场",
+  "seat_id": "V116",
+  "destinations": [
+    {
+      "location_id": "V116",
+      "reason": "routine偏好最强，按标准入场路线直接前往3F B区包厢观赛座席V116，避免绕行；responsibility支持有序入场、优先确认座位与通道。"
+    }
+  ],
+  "rationale": "当前距演出开始55分钟，价值维度中routine(+1.00)影响最强，social(+0.57)与responsibility(+0.56)也高于0.5，但routine要求按标准入场路线直接到座位，且responsibility指向有序确认座位而非进入商店或人群聚集区；中老年属性也倾向路径更短。因此不绕行，直接前往最终座位V116。"
+}
+{
+  "agent_id": "000f3a7f-f585-46dc-a21e-dc647d20ecd9",
+  "sub_scenario": "入场",
+  "seat_id": "V119",
+  "destinations": [
+    {
+      "location_id": "V119",
+      "reason": "按标准入场路线直接前往3F B区V119包厢座位，优先完成入座任务，不进行非必要绕行。"
+    }
+  ],
+  "rationale": "决策主要由routine(+1.00)驱动：守规律偏好最强，应遵循标准入场流程并直接前往座位；responsibility(+0.42)进一步支持按指引有序入场、优先确认座位与通道。curiosity(+0.58)和entertainment(+0.57)虽也较强，但entertainment偏好更偏向尽快入座等待演出开始，且routine强度显著更高，因此不选择商店、环廊或餐饮区绕行，最终目的地为座位V119。"
+}
+{
+  "agent_id": "000f9e80-b778-454e-b3f7-9e9393ec4156",
+  "sub_scenario": "入场",
+  "seat_id": "V127",
+  "destinations": [
+    {
+      "location_id": "V127",
+      "reason": "routine 偏好最强，按标准入场路线直接前往座位，避免不必要的绕行"
+    }
+  ],
+  "rationale": "该智能体的 routine(守规律) 偏好为 +1.00，是绝对主导价值，明确匹配入场规则中“按标准入场路线直接到座位”；responsibility(责任) 偏好 +0.46 也支持按指引有序入场、优先确认座位与通道。social(社交) 偏好为 +0.50，虽有一定强度，但低于 routine 且与 routine 的直接入场路线存在冲突，因此不优先触发绕行人群聚集处的行为模式。综合判断，当前最合适的行为模式是不绕行、直接前往座位 V127。"
+}
+{
+  "agent_id": "000eedf5-50c1-3e98-8906-4542aae3a6db",
+  "sub_scenario": "入场",
+  "seat_id": "C119",
+  "destinations": [
+    {
+      "location_id": "C119",
+      "reason": "守规律偏好最高，按标准入场路线直接前往指定座位，不绕行公共区域。"
+    }
+  ],
+  "rationale": "pref 最高维度是 routine +1.00，其次 responsibility +0.28，均指向按标准、有序入场；curiosity +0.34 和 health +0.29 不足以支持绕行，entertainment -0.07 略排斥额外消费或停留，45-49岁人群也倾向更短路径，因此不访问商店、餐饮或休息区，直接前往 C119。"
+}
+{
+  "agent_id": "00104888-1bf4-3cba-94be-55ed36d6479e",
+  "sub_scenario": "入场",
+  "seat_id": "A103",
+  "destinations": [
+    {
+      "location_id": "A103",
+      "reason": "routine偏好极强(+1.00)，入场阶段应按标准路线直接前往座位；responsibility(+0.41)支持有序入场并优先确认座位与通道，curiosity(+0.47)不足以覆盖强routine，因此不绕行。"
+    }
+  ],
+  "rationale": "该智能体最强价值维度是routine(+1.00)，明确匹配入场规则中的‘按标准入场路线直接到座位’；responsibility(+0.41)进一步支持有序、可靠地前往观演区域，优先确认座位A103与通道；curiosity(+0.47)虽存在但低于0.5，且不能覆盖更高优先级的routine，因此不选择商店、环廊或餐饮区绕行。结合35-39岁教育行业工作人员属性，守时与规律性较强，当前距演出开始36分钟，直接前往座位即可满足入场目标。"
+}
+{
+  "agent_id": "000ed0c6-8bad-4f82-8dc5-9dc9c08bbb33",
+  "sub_scenario": "入场",
+  "seat_id": "V202",
+  "destinations": [
+    {
+      "location_id": "V202",
+      "reason": "routine 偏好为 +1.00，要求按标准入场路线直接前往座位；quiet 偏好为 +0.49，倾向于减少在公共区域停留和绕行，因此从体育馆外广场直接前往 5F A区包厢内部活动区 V202。"
+    }
+  ],
+  "rationale": "该智能体最强价值维度为 routine(+1.00)，其次是 quiet(+0.49) 和 responsibility(+0.39)。routine 强烈偏好规律、直接、按标准路线完成入场；quiet 偏好安静，因此避免前往公共环廊、餐饮柜台、餐饮服务区等人流较多或需绕行的区域；curiosity(-0.50) 和 family(-0.50) 为负偏好，也进一步抑制绕行商店、餐饮或家庭准备类行为。结合 70-74 岁中老年属性，路径应更短、更直接，减少不必要停留。因此选择无绕行路线，下一步直接前往座位 V202。"
+}
+{
+  "agent_id": "0010e81d-fab0-4290-9164-06cdaaa2ec4a",
+  "sub_scenario": "入场",
+  "seat_id": "V219",
+  "destinations": [
+    {
+      "location_id": "V219",
+      "reason": "routine偏好最强，且responsibility要求有序入场，按标准入场路线直接前往座位，不增加绕行。"
+    }
+  ],
+  "rationale": "价值维度中routine(+1.00)为最高强偏好，responsibility(+0.47)次之，共同驱动按标准入场路线有序直达座位；curiosity(+0.39)与social(+0.35)强度不足，不足以在routine强偏好下触发商店、环廊或人群区绕行；50-54岁也倾向选择路径更短、目标明确的路线。"
+}

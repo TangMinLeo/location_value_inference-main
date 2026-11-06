@@ -1,0 +1,924 @@
+{"category": "medical", "action": ["visiting a healthcare provider", "receiving medical treatment", "participating in health screenings", "accessing medical information"], "content_ch": "医疗"}
+{"category": "makeup care", "action": ["applying makeup products", "removing makeup gently", "organizing makeup supplies", "choosing suitable shades"], "content_ch": "化妆护理"}
+{"category": "martial arts combat", "action": ["practicing techniques", "participating in sparring matches", "competing in tournaments", "attending training sessions"], "content_ch": "武术格斗"}
+{"category": "nail art", "action": ["creating intricate designs", "applying nail polish", "using nail stickers", "attending nail art workshops"], "content_ch": "美甲"}
+{"category": "fast fashion", "action": ["shopping for trendy clothing", "following fashion trends", "participating in promotions and discounts", "donating or recycling old clothes"], "content_ch": "快时尚"}
+{"category": "comprehensive apparel", "action": ["shopping for outfits", "trying on clothing", "accessorizing with complementary items", "attending fashion events"], "content_ch": "综合服饰"}
+{"category": "seaside beach", "action": ["swimming in the ocean", "sunbathing on the sand", "building sandcastles", "enjoying beach sports"], "content_ch": "海滨沙滩"}
+{"category": "other beverage shops", "action": ["tasting new beverages", "purchasing drinks to go", "enjoying a drink on-site", "sampling seasonal flavors"], "content_ch": "其他饮品店"}
+{"category": "clay pot", "action": ["crafting with clay pots", "using clay pots for cooking", "decorating with clay pots", "selling clay pots"], "content_ch": "砂锅"}
+{"category": "pet care", "action": ["feeding pets", "grooming pets", "walking pets", "providing medical care for pets"], "content_ch": "宠物关爱"}
+{"category": "4S shop", "action": ["purchasing vehicles", "obtaining vehicle maintenance services", "experiencing vehicle repairs", "exploring vehicle accessories"], "content_ch": "4S店"}
+{"category": "real estate", "action": ["buying properties", "leasing residential spaces", "investing in commercial real estate", "conducting property appraisals"], "content_ch": "房屋地产"}
+{"category": "hubei cuisine", "action": ["tasting local dishes", "experimenting with traditional recipes", "visiting local restaurants", "sharing meals with friends"], "content_ch": "湖北菜"}
+{"category": "luggage", "action": ["packing luggage", "checking luggage at the airport", "transporting luggage", "organizing luggage for a trip"], "content_ch": "箱包"}
+{"category": "other sports venues", "action": ["attending sporting events", "participating in recreational activities", "hosting tournaments", "organizing training sessions"], "content_ch": "其他体育场馆"}
+{"category": "korean cuisine", "action": ["cooking traditional dishes", "tasting diverse flavors", "pairing with beverages", "exploring regional specialties"], "content_ch": "韩国菜"}
+{"category": "picking & farmhouse stays", "action": ["participating in fruit picking", "enjoying the farmhouse experience", "attending farm tours", "exploring nature trails"], "content_ch": "采摘&农家乐"}
+{"category": "cultural art museum", "action": ["exploring art exhibitions", "attending workshops", "participating in guided tours", "engaging in community events"], "content_ch": "文化艺术馆"}
+{"category": "company", "action": ["attending meetings", "conducting team building activities", "collaborating on projects", "evaluating employee performance"], "content_ch": "公司"}
+{"category": "german cuisine", "action": ["enjoying traditional dishes", "exploring regional specialties", "pairing meals with local beverages", "attending cooking classes"], "content_ch": "德国菜"}
+{"category": "other Chinese restaurants", "action": ["dining at the restaurant", "ordering takeout", "sampling various dishes", "hosting events at the restaurant"], "content_ch": "其他中餐厅"}
+{"category": "financial services", "action": ["opening a bank account", "applying for a loan", "investing in stocks", "seeking financial advice"], "content_ch": "金融服务"}
+{"category": "home building materials", "action": ["purchasing materials", "installing building materials", "evaluating material quality", "sourcing sustainable options"], "content_ch": "家居建材"}
+{"category": "apartment", "action": ["renting an apartment", "decorating the apartment", "hosting guests in the apartment", "maintaining the apartment"], "content_ch": "公寓"}
+{"category": "children's paradise", "action": ["playing in interactive areas", "participating in fun workshops", "enjoying themed attractions", "exploring creative art stations"], "content_ch": "儿童乐园"}
+{"category": "talent market", "action": ["networking with professionals", "exploring job opportunities", "attending recruitment events", "showcasing skills and portfolios"], "content_ch": "人才市场"}
+{"category": "vehicle management agency", "action": ["registering vehicles", "conducting vehicle inspections", "providing maintenance services", "offering insurance options"], "content_ch": "车辆管理机构"}
+{"category": "books and audio-visual materials", "action": ["reading books", "listening to audiobooks", "watching documentaries", "exploring educational videos"], "content_ch": "图书音像"}
+{"category": "used car dealership", "action": ["browsing available cars", "negotiating prices", "applying for financing", "test driving vehicles"], "content_ch": "二手车行"}
+{"category": "school", "action": ["attending classes", "participating in extracurricular activities", "studying with peers", "utilizing school resources"], "content_ch": "学校"}
+{"category": "inspection station", "action": ["conducting vehicle inspections", "providing inspection services", "issuing inspection certificates", "ensuring compliance with safety regulations"], "content_ch": "验车场"}
+{"category": "children's shoes", "action": ["purchasing children's shoes", "trying on children's shoes", "selecting accessories for children's shoes", "caring for children's shoes"], "content_ch": "童鞋"}
+{"category": "public facilities", "action": ["utilizing recreational areas", "accessing restrooms", "attending community events", "using public transportation services"], "content_ch": "公共设施"}
+{"category": "home building materials market", "action": ["purchasing building materials", "comparing prices", "consulting with suppliers", "planning construction projects"], "content_ch": "家居建材卖场"}
+{"category": "computer", "action": ["using software applications", "browsing the internet", "performing system updates", "playing video games"], "content_ch": "电脑"}
+{"category": "bus station", "action": ["waiting for a bus", "boarding a bus", "purchasing bus tickets", "asking for directions"], "content_ch": "客运站"}
+{"category": "leisure sports", "action": ["playing a casual game", "watching a sports event", "participating in recreational activities", "engaging in outdoor activities"], "content_ch": "休闲运动"}
+{"category": "city sightseeing", "action": ["exploring historical landmarks", "taking guided tours", "visiting local museums", "enjoying street performances"], "content_ch": "城市观光"}
+{"category": "musical instrument", "action": ["playing the instrument", "practicing songs", "attending music lessons", "performing at events"], "content_ch": "乐器"}
+{"category": "home appliances", "action": ["using kitchen appliances", "maintaining household devices", "purchasing new appliances", "repairing malfunctioning appliances"], "content_ch": "大家电"}
+{"category": "academic counseling", "action": ["providing guidance on course selection", "helping with study strategies", "offering career advice", "assisting with academic planning"], "content_ch": "升学辅导"}
+{"category": "travel agency", "action": ["booking travel packages", "planning itineraries", "providing travel advice", "arranging transportation"], "content_ch": "旅行社"}
+{"category": "leisure and entertainment", "action": ["watching movies", "attending live performances", "participating in recreational activities", "exploring hobbies and interests"], "content_ch": "休闲娱乐"}
+{"category": "natural scenery", "action": ["hiking in natural landscapes", "photographing scenic views", "enjoying outdoor picnics", "exploring wildlife habitats"], "content_ch": "自然景观"}
+{"category": "outdoor sports", "action": ["participating in team sports", "engaging in individual sports", "attending outdoor sporting events", "organizing sports activities"], "content_ch": "运动户外"}
+{"category": "antique calligraphy and paintings", "action": ["collecting antique calligraphy and paintings", "displaying antique calligraphy and paintings in a gallery", "studying the history of antique calligraphy and paintings", "attending exhibitions of antique calligraphy and paintings"], "content_ch": "古玩字画"}
+{"category": "psychiatric hospital", "action": ["receiving treatment", "participating in therapy sessions", "attending support groups", "providing care for patients"], "content_ch": "精神病医院"}
+{"category": "lifestyle services", "action": ["receiving personal training", "attending wellness workshops", "booking spa treatments", "consulting lifestyle coaches"], "content_ch": "生活服务"}
+{"category": "secondary distributor", "action": ["purchasing products from manufacturers", "reselling products to retailers", "managing inventory and logistics", "providing customer service"], "content_ch": "二级经销商"}
+{"category": "wedding dress", "action": ["trying on different styles", "choosing the perfect fabric", "accessorizing the dress", "altering for a perfect fit"], "content_ch": "婚纱礼服"}
+{"category": "shopping", "action": ["browsing stores", "comparing prices", "purchasing items", "jewelry shopping"], "content_ch": "购物"}
+{"category": "general hospital", "action": ["receiving medical treatment", "visiting patients", "attending health seminars", "participating in wellness programs"], "content_ch": "综合医院"}
+{"category": "toy store", "action": ["browsing different toys", "purchasing toys for children", "participating in store events", "gift wrapping toys for special occasions"], "content_ch": "玩具店"}
+{"category": "children's hosting performance", "action": ["organizing the performance", "performing in front of an audience", "engaging with the children", "promoting the event"], "content_ch": "儿童主持表演"}
+{"category": "bankruptcy", "action": ["filing for bankruptcy", "consulting with a bankruptcy attorney", "attending a bankruptcy hearing", "managing debt during bankruptcy"], "content_ch": "倒闭"}
+{"category": "tourist attraction", "action": ["exploring historical sites", "participating in guided tours", "visiting local museums", "taking photographs"], "content_ch": "旅游景点"}
+{"category": "vocational technical school", "action": ["enrolling in courses", "participating in workshops", "receiving hands-on training", "networking with industry professionals"], "content_ch": "职业技术学校"}
+{"category": "middle school", "action": ["attending classes", "participating in extracurricular activities", "forming friendships", "completing homework assignments"], "content_ch": "中学"}
+{"category": "laundromat", "action": ["washing clothes", "drying clothes", "folding laundry", "using laundry machines"], "content_ch": "洗衣店"}
+{"category": "crawfish", "action": ["cooking crawfish dishes", "hosting a crawfish boil", "selling crawfish", "enjoying crawfish with friends"], "content_ch": "小龙虾"}
+{"category": "insurance & trust", "action": ["purchasing insurance policies", "reviewing trust agreements", "filing insurance claims", "establishing trusts for asset management"], "content_ch": "保险&信托"}
+{"category": "chinese fast food", "action": ["ordering takeout", "dining in at the restaurant", "exploring menu options", "sharing meals with friends"], "content_ch": "中式快餐"}
+{"category": "light salad", "action": ["preparing a light salad", "serving a light salad", "enjoying a light salad", "pairing a light salad with a beverage"], "content_ch": "轻食沙拉"}
+{"category": "cultural landscape", "action": ["exploring historical sites", "participating in local traditions", "attending cultural festivals", "appreciating artistic expressions"], "content_ch": "人文景观"}
+{"category": "hot pot", "action": ["dining at a hot pot restaurant", "preparing ingredients for hot pot", "enjoying a hot pot meal with friends", "experimenting with different dipping sauces"], "content_ch": "火锅"}
+{"category": "music training", "action": ["attending lessons", "practicing instruments", "participating in workshops", "performing in recitals"], "content_ch": "音乐培训"}
+{"category": "home customization", "action": ["redesigning interiors", "upgrading appliances", "landscaping the yard", "installing new fixtures"], "content_ch": "家居定制"}
+{"category": "rivers lakes seas and fresh seafood", "action": ["fishing for fresh seafood", "boating on rivers and lakes", "swimming in seas", "picnicking by the water"], "content_ch": "江河湖海鲜"}
+{"category": "swimming training", "action": ["practicing different strokes", "improving endurance", "participating in swim drills", "setting personal best times"], "content_ch": "游泳培训"}
+{"category": "digital appliances", "action": ["using digital appliances for daily tasks", "shopping for new digital appliances", "maintaining digital appliances", "exploring features of digital appliances"], "content_ch": "数码家电"}
+{"category": "other vehicle services", "action": ["renting a vehicle", "performing vehicle maintenance", "providing roadside assistance", "offering vehicle detailing services"], "content_ch": "其他车辆服务"}
+{"category": "pawnshop & auction house", "action": ["buying items", "selling items", "appraising valuables", "participating in auctions"], "content_ch": "典当&拍卖行"}
+{"category": "museum", "action": ["exploring exhibits", "attending educational programs", "participating in guided tours", "viewing art collections"], "content_ch": "博物馆"}
+{"category": "lifestyle store", "action": ["browsing for unique products", "purchasing home decor items", "attending workshops or events", "exploring lifestyle-related books and media"], "content_ch": "生活集合店"}
+{"category": "automotive supplies", "action": ["purchasing car parts", "maintaining vehicle performance", "upgrading car accessories", "organizing automotive tools"], "content_ch": "汽车用品"}
+{"category": "climbing gym", "action": ["attending climbing classes", "participating in climbing competitions", "engaging in strength training", "socializing with fellow climbers"], "content_ch": "攀岩馆"}
+{"category": "maternity care", "action": ["attending prenatal classes", "visiting a healthcare provider", "participating in support groups", "accessing postpartum resources"], "content_ch": "孕产护理"}
+{"category": "other sports fitness", "action": ["participating in group classes", "engaging in outdoor activities", "utilizing fitness equipment", "practicing individual sports"], "content_ch": "其他运动健身"}
+{"category": "other ball sports", "action": ["playing recreational matches", "organizing local tournaments", "joining community leagues", "practicing skills and techniques"], "content_ch": "其他球类运动"}
+{"category": "other makeup and skincare", "action": ["applying makeup products", "using skincare routines", "experimenting with beauty techniques", "purchasing beauty items"], "content_ch": "其他化妆护理"}
+{"category": "farmers' market", "action": ["purchasing fresh produce", "enjoying local food samples", "interacting with farmers and vendors", "attending workshops or demonstrations"], "content_ch": "农贸市场"}
+{"category": "cosmetics", "action": ["applying makeup", "shopping for new products", "attending beauty workshops", "sharing beauty tips with others"], "content_ch": "化妆品"}
+{"category": "wedding company", "action": ["planning wedding details", "coordinating with vendors", "designing wedding decorations", "providing wedding consultation services"], "content_ch": "婚庆公司"}
+{"category": "thoracic hospital", "action": ["receiving medical treatment for thoracic issues", "consulting with thoracic specialists", "undergoing diagnostic imaging procedures", "participating in rehabilitation programs"], "content_ch": "胸科医院"}
+{"category": "photo printing", "action": ["ordering photo prints online", "visiting a local photo printing shop", "customizing photo print sizes", "selecting photo print finishes"], "content_ch": "摄影冲印"}
+{"category": "other intermediary institutions", "action": ["facilitating communication", "providing support services", "offering consultation", "connecting clients with resources"], "content_ch": "其他中介机构"}
+{"category": "fresh fruits", "action": ["eating fresh fruits", "buying fresh fruits", "preparing fresh fruit dishes", "growing fresh fruits"], "content_ch": "水果生鲜"}
+{"category": "sour fish / poached fish", "action": ["preparing sour fish", "serving poached fish", "tasting different flavor profiles", "pairing fish with complementary sides"], "content_ch": "酸菜鱼/水煮鱼"}
+{"category": "life payment", "action": ["making a monthly payment", "setting up automatic payments", "reviewing payment history", "adjusting payment methods"], "content_ch": "生活缴费"}
+{"category": "business casual", "action": ["attending meetings in business casual attire", "networking at professional events", "dressing for office environments", "choosing appropriate footwear"], "content_ch": "商务休闲"}
+{"category": "children's clothing", "action": ["shopping for children's clothing", "trying on children's clothing", "caring for children's clothing", "donating children's clothing"], "content_ch": "童装"}
+{"category": "other delicacies", "action": ["tasting unique flavors", "experimenting with recipes", "sharing desserts with friends", "exploring regional cuisines"], "content_ch": "其他美食"}
+{"category": "table tennis hall", "action": ["playing table tennis", "taking table tennis lessons", "watching table tennis matches", "participating in table tennis tournaments"], "content_ch": "乒乓球馆"}
+{"category": "other cultural landscapes", "action": ["exploring historical sites", "participating in local festivals", "appreciating traditional arts", "engaging in cultural exchanges"], "content_ch": "其他人文景观"}
+{"category": "moving delivery", "action": ["packing items", "transporting goods", "unpacking belongings", "coordinating with movers"], "content_ch": "搬家配送"}
+{"category": "cultural education", "action": ["attending workshops", "participating in cultural exchange programs", "exploring historical sites", "engaging in community discussions"], "content_ch": "文化教育"}
+{"category": "post office express", "action": ["sending packages quickly", "purchasing postage", "tracking shipments", "using express delivery services"], "content_ch": "邮局快递"}
+{"category": "maternity and baby products", "action": ["purchasing maternity wear", "buying baby clothes", "selecting baby care essentials", "exploring breastfeeding accessories", "researching parenting guides"], "content_ch": "母婴用品"}
+{"category": "specialty store", "action": ["browsing unique products", "asking for expert advice", "purchasing niche items", "attending special events"], "content_ch": "专卖店"}
+{"category": "wedding planning", "action": ["choosing a venue", "selecting a theme", "creating a guest list", "arranging catering services", "booking entertainment options", "designing invitations", "coordinating with vendors", "planning the ceremony details"], "content_ch": "婚礼策划"}
+{"category": "medical examination institution", "action": ["undergoing medical tests", "receiving health check-ups", "consulting healthcare professionals", "accessing medical records"], "content_ch": "体检机构"}
+{"category": "jewelry city", "action": ["exploring jewelry shops", "attending gem exhibitions", "participating in jewelry making workshops", "admiring artistic displays of jewelry"], "content_ch": "珠宝城"}
+{"category": "park", "action": ["walking through the park", "having a picnic", "playing sports", "enjoying nature"], "content_ch": "公园"}
+{"category": "exhibition hall", "action": ["attending an event", "viewing exhibits", "networking with attendees", "participating in workshops"], "content_ch": "展馆展览"}
+{"category": "shopping mall", "action": ["buying clothing and accessories", "dining at food courts or restaurants", "attending special events or promotions", "exploring entertainment options like cinemas or arcades"], "content_ch": "购物中心"}
+{"category": "intermediary机构", "action": ["facilitating communication", "organizing events", "providing consultation services", "connecting clients with resources"], "content_ch": "中介机构"}
+{"category": "racing", "action": ["participating in a race", "watching a race", "training for a racing competition", "analyzing racing strategies"], "content_ch": "赛车"}
+{"category": "digital appliance repair", "action": ["diagnosing appliance issues", "replacing faulty parts", "performing routine maintenance", "providing customer support"], "content_ch": "数码家电维修"}
+{"category": "duplicate poi", "action": ["reporting duplicate points of interest", "removing duplicate listings", "merging information from duplicates", "updating details for accuracy"], "content_ch": "重复POI"}
+{"category": "arcade", "action": ["playing video games", "competing in arcade tournaments", "enjoying snacks and beverages", "interacting with friends and family"], "content_ch": "游戏厅"}
+{"category": "teaching building", "action": ["attending lectures", "participating in group discussions", "conducting research", "utilizing educational resources"], "content_ch": "教学楼"}
+{"category": "other hair care", "action": ["using hair masks", "applying serums and oils", "trimming hair regularly", "investing in quality hair tools"], "content_ch": "其他美发养发"}
+{"category": "western fast food", "action": ["ordering a meal", "dining in the restaurant", "taking food to go", "trying new menu items"], "content_ch": "西式快餐"}
+{"category": "mobile phone", "action": ["making phone calls", "sending text messages", "browsing the internet", "using mobile applications"], "content_ch": "手机"}
+{"category": "beijing cuisine", "action": ["tasting traditional dishes", "experimenting with local recipes", "exploring street food options", "participating in cooking classes"], "content_ch": "北京菜"}
+{"category": "vr", "action": ["experiencing virtual reality games", "attending virtual reality events", "exploring virtual worlds", "creating virtual reality content"], "content_ch": "VR"}
+{"category": "delicious food", "action": ["tasting new dishes", "cooking at home", "sharing meals with friends", "exploring local cuisines"], "content_ch": "美食"}
+{"category": "nail art and eyelash extensions", "action": ["getting a manicure with nail art", "applying eyelash extensions", "attending workshops for nail art techniques", "offering nail art services to clients"], "content_ch": "美甲美睫"}
+{"category": "parent-child restaurant", "action": ["dining together", "participating in cooking classes", "enjoying kid-friendly entertainment", "exploring menu options"], "content_ch": "亲子餐厅"}
+{"category": "diy workshop", "action": ["attending a DIY workshop", "creating handmade projects", "learning new crafting techniques", "sharing DIY tips with others"], "content_ch": "DIY手工坊"}
+{"category": "household laundry", "action": ["washing clothes", "drying clothes", "folding laundry", "ironing garments"], "content_ch": "家政洗涤"}
+{"category": "other jewelry and watches", "action": ["purchasing jewelry items", "wearing jewelry for special occasions", "gifting jewelry to loved ones", "collecting watches for enthusiasts"], "content_ch": "其他珠宝钟表"}
+{"category": "essential oil", "action": ["using essential oils for aromatherapy", "adding essential oils to beauty products", "cleaning with essential oils", "creating custom essential oil blends"], "content_ch": "香氛精油"}
+{"category": "shopping street", "action": ["browsing stores", "trying local food", "people watching", "attending street performances"], "content_ch": "商业街"}
+{"category": "sports equipment", "action": ["purchasing sports equipment", "using sports equipment for training", "maintaining sports equipment", "renting sports equipment for events"], "content_ch": "运动装备"}
+{"category": "wedding photography", "action": ["taking candid shots", "capturing posed moments", "editing wedding photos", "creating wedding albums"], "content_ch": "婚纱摄影"}
+{"category": "motor, electric, and bicycle repair", "action": ["fixing motors", "servicing electrical components", "repairing bicycles", "performing routine maintenance"], "content_ch": "摩托&电动&自行车维修"}
+{"category": "cardiovascular hospital", "action": ["receiving medical treatment", "consulting with specialists", "attending rehabilitation programs", "undergoing diagnostic tests"], "content_ch": "心血管医院"}
+{"category": "housing", "action": ["buying a house", "renting an apartment", "selling real estate", " renovating a home"], "content_ch": "住宅"}
+{"category": "beauty eyelashes", "action": ["applying mascara", "getting eyelash extensions", "using eyelash curlers", "removing makeup gently"], "content_ch": "美睫"}
+{"category": "grilled fish", "action": ["preparing grilled fish", "serving grilled fish", "enjoying grilled fish", "pairing grilled fish with sides"], "content_ch": "烤鱼"}
+{"category": "snack fast food", "action": ["ordering a snack combo", "eating a quick meal on-the-go", "sharing snacks with friends", "trying new fast food items"], "content_ch": "小吃快餐"}
+{"category": "fitness center", "action": ["exercising with gym equipment", "attending fitness classes", "participating in group workouts", "personal training sessions"], "content_ch": "健身中心"}
+{"category": "office residential", "action": ["working in the office", "living in the residential area", "commuting between office and home", "hosting meetings in the office"], "content_ch": "办公住宅"}
+{"category": "wedding car rental", "action": ["renting a luxury car", "arranging transportation for guests", "coordinating car decorations", "ensuring timely arrival for the ceremony"], "content_ch": "婚车租赁"}
+{"category": "bar", "action": ["having drinks with friends", "enjoying live music", "playing bar games", "sampling cocktails"], "content_ch": "酒吧"}
+{"category": "digital appliance recycling", "action": ["dropping off appliances at recycling centers", "participating in e-waste collection events", "finding local recycling programs", "educating others about e-waste disposal"], "content_ch": "数码家电回收"}
+{"category": "training education", "action": ["participating in workshops", "attending classes", "engaging in online courses", "conducting training sessions"], "content_ch": "培训教育"}
+{"category": "other leisure and entertainment", "action": ["attending live performances", "participating in recreational sports", "exploring artistic hobbies", "engaging in outdoor activities"], "content_ch": "其他休闲娱乐"}
+{"category": "jewelry and watches", "action": ["purchasing jewelry", "wearing fashionable watches", "cleaning and maintaining accessories", "gift-giving of jewelry items"], "content_ch": "珠宝钟表"}
+{"category": "co-working space", "action": ["booking a workspace", "attending networking events", "collaborating with peers", "participating in workshops"], "content_ch": "联合办公空间"}
+{"category": "beauty spa", "action": ["receiving spa treatments", "enjoying relaxation services", "participating in beauty workshops", "exploring wellness products"], "content_ch": "美容SPA"}
+{"category": "buffet", "action": ["sampling various dishes", "enjoying a wide selection of desserts", "mingling with other guests", "providing feedback on the food"], "content_ch": "自助餐"}
+{"category": "household daily necessities", "action": ["cleaning the home", "organizing household items", "cooking meals", "doing laundry"], "content_ch": "居家日用"}
+{"category": "golf ball", "action": ["playing a round of golf", "practicing putting", "participating in a golf tournament", "exchanging golf balls with friends"], "content_ch": "高尔夫球"}
+{"category": "water entertainment", "action": ["swimming", "jet skiing", "diving", "participating in water sports", "enjoying boat rides"], "content_ch": "水上娱乐"}
+{"category": "finance", "action": ["investing in stocks", "managing a budget", "saving for retirement", "consulting a financial advisor"], "content_ch": "金融"}
+{"category": "shoe repair and polishing", "action": ["repairing shoes", "polishing shoes", "providing shoe maintenance services", "offering shoe customization options"], "content_ch": "修鞋擦鞋"}
+{"category": "luggage accessories", "action": ["buying luggage accessories", "using luggage accessories for travel", "organizing luggage with accessories", "maintaining luggage accessories"], "content_ch": "箱包配件"}
+{"category": "teahouse", "action": ["enjoying a variety of teas", "attending a tea ceremony", "meeting with friends", "participating in tea tasting events"], "content_ch": "茶馆"}
+{"category": "building materials", "action": ["purchasing building materials", "transporting building materials", "storing building materials", "utilizing building materials for construction"], "content_ch": "装修建材"}
+{"category": "selected gifts", "action": ["purchasing selected gifts", "wrapping selected gifts", "presenting selected gifts", "choosing selected gifts for occasions"], "content_ch": "精选礼品"}
+{"category": "quzhou cuisine", "action": ["tasting local dishes", "visiting local restaurants", "exploring traditional cooking methods", "attending food festivals"], "content_ch": "衢州菜"}
+{"category": "special classification", "action": ["categorizing items", "assigning labels", "organizing data", "analyzing classifications"], "content_ch": "特殊分类"}
+{"category": "trampoline", "action": ["jumping on the trampoline", "performing tricks", "hosting trampoline games", "participating in trampoline fitness classes"], "content_ch": "蹦床"}
+{"category": "tennis court", "action": ["playing tennis", "watching a match", "practicing serves", "attending a tennis class"], "content_ch": "网球场"}
+{"category": "library", "action": ["reading books", "attending workshops", "participating in book clubs", "conducting research"], "content_ch": "图书馆"}
+{"category": "cultural supplies", "action": ["purchasing cultural supplies", "using cultural supplies for artistic projects", "educating others about cultural supplies", "distributing cultural supplies in community events"], "content_ch": "文化用品"}
+{"category": "car rental", "action": ["picking up a rental car", "returning a rental car", "choosing a rental car type", "exploring rental car insurance options"], "content_ch": "汽车租赁"}
+{"category": "archery range", "action": ["practicing archery skills", "participating in competitions", "attending archery lessons", "renting equipment"], "content_ch": "射箭馆"}
+{"category": "calligraphy training", "action": ["attending calligraphy workshops", "practicing different styles", "participating in online classes", "creating personalized artworks"], "content_ch": "书法培训"}
+{"category": "guangxi cuisine", "action": ["tasting local dishes", "exploring traditional recipes", "visiting local restaurants", "participating in food festivals"], "content_ch": "广西菜"}
+{"category": "accessories", "action": ["wearing accessories", "designing accessories", "purchasing accessories", "styling outfits with accessories"], "content_ch": "服饰配件"}
+{"category": "spa beauty body", "action": ["receiving a massage", "enjoying a facial treatment", "participating in relaxation therapies", "attending beauty workshops"], "content_ch": "SPA美体"}
+{"category": "plants and flowers", "action": ["caring for indoor plants", "arranging a flower bouquet", "planting a garden", "attending a flower show"], "content_ch": "植物花卉"}
+{"category": "inns and guesthouses", "action": ["booking a room", "checking in at the inn", "experiencing local hospitality", "providing accommodations for travelers"], "content_ch": "旅馆招待所"}
+{"category": "health maintenance and wellness", "action": ["exercising regularly", "eating a balanced diet", "practicing mindfulness", "attending routine check-ups"], "content_ch": "养生保健"}
+{"category": "domestic services", "action": ["cleaning the house", "organizing personal belongings", "cooking meals", "providing maintenance support"], "content_ch": "家政服务"}
+{"category": "home textiles", "action": ["decorating the home", "choosing fabric types", "washing and maintaining textiles", "shopping for new items"], "content_ch": "家居家纺"}
+{"category": "auto parts", "action": ["purchasing auto parts", "installing auto parts", "replacing malfunctioning parts", "selling auto parts"], "content_ch": "汽车配件"}
+{"category": "study abroad", "action": ["attending classes", "exploring the local culture", "meeting new friends", "participating in internships"], "content_ch": "留学"}
+{"category": "children's programming", "action": ["watching educational shows", "participating in interactive games", "attending storytelling sessions", "engaging in creative activities"], "content_ch": "少儿编程"}
+{"category": "creative dishes", "action": ["experimenting with new flavors", "presenting unique plating styles", "pairing unexpected ingredients", "sharing recipes with others"], "content_ch": "创意菜"}
+{"category": "vehicle service", "action": ["repairing vehicles", "providing maintenance services", "offering vehicle inspections", "selling automotive parts"], "content_ch": "车辆服务"}
+{"category": "cigarettes, alcohol, tea", "action": ["purchasing cigarettes", "consuming alcohol", "brewing tea", "sharing cigarettes with friends", "enjoying a cocktail", "sipping herbal tea"], "content_ch": "烟酒茶"}
+{"category": "other recreational activities", "action": ["playing sports", "attending a concert", "participating in workshops", "exploring nature trails"], "content_ch": "其他玩乐活动"}
+{"category": "tea drink juice", "action": ["brewing tea", "sipping juice", "serving drinks at a gathering", "experimenting with flavors"], "content_ch": "茶饮果汁"}
+{"category": "renovation company", "action": ["consulting on renovation projects", "providing construction services", "designing interior spaces", "managing renovation schedules"], "content_ch": "装修公司"}
+{"category": "psychological counseling organization", "action": ["offering counseling sessions", "conducting workshops", "providing support groups", "developing mental health resources"], "content_ch": "心理咨询机构"}
+{"category": "henan cuisine", "action": ["tasting traditional dishes", "attending cooking classes", "exploring local markets", "enjoying food festivals"], "content_ch": "河南菜"}
+{"category": "basketball court", "action": ["playing basketball", "practicing shooting drills", "hosting a basketball tournament", "watching a game"], "content_ch": "篮球场"}
+{"category": "other shopping", "action": ["browsing stores", "comparing prices", "making purchases", "exploring new products"], "content_ch": "其他购物"}
+{"category": "ticket agency", "action": ["purchasing tickets", "booking travel arrangements", "reserving event passes", "providing customer support"], "content_ch": "电玩城"}
+{"category": "star hotel", "action": ["booking a room", "utilizing hotel amenities", "attending events at the hotel", "rating the hotel services"], "content_ch": "车票代售点"}
+{"category": "graphic printing", "action": ["designing graphics", "producing printed materials", "customizing print layouts", "delivering printed products"], "content_ch": "星级酒店"}
+{"category": "foreign restaurant", "action": ["dining at the restaurant", "trying new cuisines", "ordering takeout", "hosting a lunch event"], "content_ch": "图文快印"}
+{"category": "office building", "action": ["working in the office building", "attending meetings", "collaborating with colleagues", "utilizing office amenities"], "content_ch": "外国餐厅"}
+{"category": "mixed-use building", "action": ["living in the residential units", "shopping in the retail spaces", "working in the office areas", "attending events in common areas"], "content_ch": "写字楼"}
+{"category": "children's haircut", "action": ["getting a haircut", "styling hair for children", "choosing hair accessories", "attending a children's hair salon"], "content_ch": "商住两用楼宇"}
+{"category": "public relations planning / online marketing", "action": ["developing marketing strategies", "engaging with online audiences", "creating promotional content", "analyzing marketing performance", "building brand awareness"], "content_ch": "儿童理发"}
+{"category": "tattoo", "action": ["getting a tattoo", "designing a tattoo", "visiting a tattoo studio", "caring for a tattoo"], "content_ch": "公关策划/网络营销"}
+{"category": "women's shoes", "action": ["shopping for women's shoes", "trying on women's shoes", "wearing women's shoes", "caring for women's shoes"], "content_ch": "纹身"}
+{"category": "southeast asian cuisine", "action": ["tasting traditional dishes", "cooking popular recipes", "exploring local markets", "attending food festivals"], "content_ch": "女鞋"}
+{"category": "train station", "action": ["waiting for a train", "purchasing tickets", "boarding a train", "providing assistance to travelers"], "content_ch": "东南亚菜"}
+{"category": "popular trend", "action": ["following the trend", "discussing the trend on social media", "creating content related to the trend", "assessing the impact of the trend"], "content_ch": "列车站"}
+{"category": "huizhou cuisine", "action": ["tasting traditional dishes", "exploring local food markets", "attending cooking classes", "enjoying food festivals"], "content_ch": "大众潮流"}
+{"category": "service area", "action": ["providing customer support", "offering maintenance services", "conducting workshops", "facilitating product demonstrations"], "content_ch": "徽菜"}
+{"category": "northeast cuisine", "action": ["tasting traditional dishes", "exploring regional flavors", "attending cooking classes", "sharing meals with friends"], "content_ch": "服务区"}
+{"category": "dental hospital", "action": ["receiving dental treatment", "consulting with dental professionals", "undergoing dental procedures", "participating in dental education programs"], "content_ch": "东北菜"}
+{"category": "loungewear", "action": ["relaxing at home", "reading a book", "watching movies", "engaging in light exercise"], "content_ch": "口腔医院"}
+{"category": "other schools", "action": ["visiting the school", "attending an event", "participating in extracurricular activities", "connecting with other students"], "content_ch": "居家内衣"}
+{"category": "language training", "action": ["attending language classes", "participating in language exchange programs", "practicing speaking with native speakers", "completing language assessments"], "content_ch": "其他学校"}
+{"category": "historical sites and scenic spots", "action": ["exploring historical landmarks", "taking guided tours", "photographing scenic views", "participating in cultural events"], "content_ch": "语言培训"}
+{"category": "home decor", "action": ["arranging furniture", "choosing color schemes", "selecting decorative items", "hanging artwork"], "content_ch": "名胜古迹"}
+{"category": "swimming pool", "action": ["swimming for exercise", "relaxing by the poolside", "organizing pool parties", "taking swimming lessons"], "content_ch": "家居装饰"}
+{"category": "comprehensive digital home appliances", "action": ["setting up the appliances", "monitoring appliance performance", "integrating appliances with smart home systems", "performing regular maintenance", "exploring appliance features and functionalities"], "content_ch": "游泳馆"}
+{"category": "billiard hall", "action": ["playing billiards", "socializing with friends", "participating in tournaments", "enjoying snacks and beverages"], "content_ch": "综合数码家电"}
+{"category": "adult education", "action": ["attending classes", "participating in workshops", "engaging in online courses", "pursuing certifications"], "content_ch": "台球馆"}
+{"category": "clock repair", "action": ["fixing broken clocks", "cleaning clock mechanisms", "replacing clock parts", "calibrating clock time"], "content_ch": "成人教育"}
+{"category": "children's martial arts", "action": ["attending martial arts classes", "participating in competitions", "practicing self-defense techniques", "learning discipline and focus"], "content_ch": "钟表维修"}
+{"category": "temple church", "action": ["attending religious services", "participating in community events", "exploring historical architecture", "engaging in spiritual practices"], "content_ch": "儿童武术拳类"}
+{"category": "postpartum care center", "action": ["receiving postpartum support", "attending wellness workshops", "participating in group activities", "consulting with healthcare professionals"], "content_ch": "寺庙教堂"}
+{"category": "steak", "action": ["grilling steak", "ordering steak at a restaurant", "pairing steak with wine", "cooking steak at home"], "content_ch": "月子会所"}
+{"category": "car club & car owner association", "action": ["attending car meets", "participating in car shows", "joining discussions on car maintenance", "sharing driving experiences with members", "participating in group drives and rallies"], "content_ch": "牛排"}
+{"category": "sports training", "action": ["participating in drills", "strengthening fitness levels", "practicing techniques", "competing in events"], "content_ch": "汽车俱乐部&车友会"}
+{"category": "luxury goods", "action": ["purchasing luxury items", "gift giving of luxury goods", "collecting exclusive products", "experiencing luxury brand events"], "content_ch": "运动培训"}
+{"category": "ordinary mall", "action": ["shopping for clothing", "dining at food courts", "attending promotional events", "people-watching"], "content_ch": "奢侈品"}
+{"category": "supermarket", "action": ["grocery shopping", "browsing products", "checking prices", "picking up essentials"], "content_ch": "普通商场"}
+{"category": "shandong cuisine", "action": ["tasting traditional dishes", "attending a cooking class", "exploring local food markets", "sharing culinary experiences with others"], "content_ch": "超市"}
+{"category": "supermarket convenience", "action": ["shopping for groceries", "grabbing ready-to-eat meals", "using self-checkout kiosks", "getting last-minute snacks"], "content_ch": "山东菜"}
+{"category": "children's music", "action": ["listening to children's songs", "participating in sing-alongs", "dancing to upbeat children's music", "creating musical games for kids"], "content_ch": "超市便利"}
+{"category": "high-speed train station", "action": ["boarding the train", "purchasing tickets", "waiting in the lounge", "dining at nearby restaurants"], "content_ch": "儿童音乐"}
+{"category": "port terminal", "action": ["loading cargo", "unloading cargo", "checking in passengers", "inspecting ships"], "content_ch": "高铁站"}
+{"category": "live action cs", "action": ["participating in live action roleplay", "organizing a live action event", "creating live action content", "attending live action performances"], "content_ch": "港口码头"}
+{"category": "meat crab pot", "action": ["cooking a meat crab pot", "serving a meat crab pot", "sharing a meat crab pot meal with friends", "enjoying a meat crab pot at a seafood restaurant"], "content_ch": "真人CS"}
+{"category": "vocational training", "action": ["attending workshops", "participating in hands-on training", "networking with industry professionals", "completing certification programs"], "content_ch": "肉蟹煲"}
+{"category": "community service", "action": ["volunteering at local shelters", "organizing community events", "participating in clean-up drives", "mentoring youth in the community"], "content_ch": "职业培训"}
+{"category": "other parent-child entertainment", "action": ["playing games together", "attending workshops", "visiting amusement parks", "going to family-friendly events"], "content_ch": "社区服务"}
+{"category": "wedding photography", "action": ["booking a wedding photographer", "attending a wedding photoshoot", "selecting a wedding photography style", "viewing wedding photo albums"], "content_ch": "其他亲子游乐"}
+{"category": "other business services", "action": ["providing consultancy services", "offering customer support", "managing project proposals", "conducting training sessions"], "content_ch": "其他婚庆摄影"}
+{"category": "art training", "action": ["attending art classes", "participating in workshops", "practicing various techniques", "showcasing artwork in exhibitions"], "content_ch": "其他商务服务"}
+{"category": "agricultural, forestry, animal husbandry, and fishery base", "action": ["cultivating crops", "managing livestock", "practicing sustainable forestry", "harvesting fish"], "content_ch": "美术培训"}
+{"category": "toll booth", "action": ["paying toll fees", "collecting toll fees", "providing directions to travelers", "monitoring traffic flow"], "content_ch": "农林牧渔基地"}
+{"category": "tcm clinic", "action": ["receiving acupuncture treatment", "consulting with a practitioner", "participating in herbal therapy", "attending wellness workshops"], "content_ch": "收费站"}
+{"category": "other health and wellness", "action": ["participating in fitness classes", "practicing mindfulness techniques", "engaging in nutrition workshops", "attending holistic health seminars"], "content_ch": "中医馆"}
+{"category": "vehicle", "action": ["driving the vehicle", "maintaining the vehicle", "renting a vehicle", "selling a vehicle"], "content_ch": "其他养生保健"}
+{"category": "department store", "action": ["browsing for products", "making purchases", "enjoying promotions and discounts", "attending in-store events"], "content_ch": "车辆"}
+{"category": "hunan cuisine", "action": ["tasting traditional dishes", "cooking authentic recipes", "exploring spice combinations", "visiting local restaurants"], "content_ch": "百货"}
+{"category": "postpartum shaping", "action": ["engaging in postpartum exercises", "consulting with a fitness expert", "attending support groups", "using shaping garments"], "content_ch": "湘菜"}
+{"category": "small appliances", "action": ["cooking meals with the appliance", "keeping the appliance clean", "upgrading to a newer model", "using the appliance for convenience"], "content_ch": "产后塑形"}
+{"category": "lawyer services", "action": ["consulting with a lawyer", "drafting legal documents", "representing clients in court", "offering legal advice to individuals"], "content_ch": "小家电"}
+{"category": "escape room", "action": ["solving puzzles", "team building with friends", "experiencing immersive adventures", "competing for the best time"], "content_ch": "律师服务"}
+{"category": "football field", "action": ["playing a football match", "practicing football skills", "hosting a football tournament", "spectating a football game"], "content_ch": "密室逃脱"}
+{"category": "business services", "action": ["consulting with clients", "offering project management", "providing financial analysis", "conducting market research"], "content_ch": "足球场"}
+{"category": "chess room", "action": ["playing chess games", "watching chess matches", "participating in chess tournaments", "organizing chess events"], "content_ch": "商务服务"}
+{"category": "other shopping malls", "action": ["browsing stores", "purchasing items", "visiting food courts", "attending promotional events"], "content_ch": "棋牌室"}
+{"category": "disease prevention and control center", "action": ["conducting research on diseases", "providing public health education", "collaborating with healthcare providers", "developing prevention strategies"], "content_ch": "其他商场"}
+{"category": "ball games", "action": ["playing ball games", "attending ball games", "watching ball games", "organizing ball games"], "content_ch": "疾病预防控制中心"}
+{"category": "barbecue meat", "action": ["grilling the meat", "marinating the meat", "serving the barbecue", "enjoying a barbecue feast"], "content_ch": "球类运动"}
+{"category": "car city", "action": ["driving through the city", "parking the car", "visiting car-related events", "exploring car dealerships"], "content_ch": "烧烤烤肉"}
+{"category": "food court", "action": ["exploring different food options", "enjoying a meal with friends", "sampling various cuisines", "relaxing in a communal dining space"], "content_ch": "汽车城"}
+{"category": "karate dojo", "action": ["attending karate classes", "participating in sparring sessions", "learning self-defense techniques", "competing in karate tournaments"], "content_ch": "美食广场"}
+{"category": "parent-child shopping", "action": ["selecting clothing together", "picking out toys", "exploring different stores", "discussing preferences and choices"], "content_ch": "空手道馆"}
+{"category": "theme park", "action": ["riding amusement rides", "playing arcade games", "attending live shows", "dining at theme park restaurants"], "content_ch": "亲子购物"}
+{"category": "other digital appliances", "action": ["operating the digital appliance", "performing maintenance on the appliance", "using the appliance for daily tasks", "exploring new features of the appliance"], "content_ch": "主题乐园"}
+{"category": "other natural landscapes", "action": ["hiking in the mountains", "exploring national parks", "photographing scenic views", "camping in the wilderness"], "content_ch": "其他数码家电"}
+{"category": "office residential", "action": ["working in an office", "living in a residential area", "attending meetings in office spaces", "conducting community events"], "content_ch": "其他自然景观"}
+{"category": "securities investment", "action": ["buying stocks", "selling bonds", "analyzing market trends", "diversifying portfolio"], "content_ch": "其他办公住宅"}
+{"category": "beauty spa", "action": ["receiving beauty treatments", "relaxing in a spa environment", "participating in wellness activities", "exploring skincare products"], "content_ch": "证券投资"}
+{"category": "recycling of recyclable resources", "action": ["collecting recyclable materials", "sorting recyclables for processing", "participating in community recycling programs", "educating others about recycling"], "content_ch": "其他美容SPA"}
+{"category": "coffee", "action": ["brewing coffee at home", "visiting a coffee shop", "tasting different coffee blends", "participating in coffee workshops"], "content_ch": "再生资源回收"}
+{"category": "other general hospitals", "action": ["receiving medical care", "visiting patients", "attending health workshops", "consulting with healthcare professionals"], "content_ch": "咖啡"}
+{"category": "clock", "action": ["checking the time", "setting an alarm", "winding the clock", "choosing clock designs"], "content_ch": "其他综合医院"}
+{"category": "real estate agent", "action": ["assisting clients in buying properties", "guiding clients through the selling process", "conducting property market analysis", "advising on investment opportunities"], "content_ch": "钟表"}
+{"category": "electronic market", "action": ["browsing for gadgets", "comparing prices", "purchasing electronic devices", "seeking customer support"], "content_ch": "房产中介"}
+{"category": "community center", "action": ["attending workshops", "participating in community events", "volunteering for local initiatives", "enrolling in fitness classes"], "content_ch": "电子市场"}
+{"category": "repair and recycling", "action": ["fixing broken items", "upcycling materials", "participating in recycling programs", "donating usable goods"], "content_ch": "社区中心"}
+{"category": "other leisure activities", "action": ["participating in sports", "engaging in hobbies", "attending cultural events", "exploring nature"], "content_ch": "维修回收"}
+{"category": "board game party", "action": ["inviting friends over", "selecting various board games", "preparing snacks and drinks", "creating a comfortable game setup"], "content_ch": "其他休闲运动"}
+{"category": "elementary school", "action": ["attending classes", "participating in extracurricular activities", "engaging in playtime", "collaborating on group projects"], "content_ch": "桌游轰趴"}
+{"category": "glasses shop", "action": ["browsing different styles", "trying on various frames", "consulting with an optician", "purchasing prescription glasses"], "content_ch": "小学"}
+{"category": "hotels and guesthouses", "action": ["booking a room", "checking in", "exploring guest amenities", "providing feedback on accommodation"], "content_ch": "眼镜店"}
+{"category": "flower and bird market", "action": ["shopping for flowers", "browsing bird supplies", "enjoying the ambiance", "interacting with vendors"], "content_ch": "酒店宾馆"}
+{"category": "hairdressing and hair care", "action": ["getting a haircut", "receiving a hair treatment", "styling hair for an event", "buying hair care products"], "content_ch": "花鸟市场"}
+{"category": "social organizations", "action": ["participating in community activities", "volunteering for events", "attending meetings", "providing support to members"], "content_ch": "美发养发"}
+{"category": "dance", "action": ["participating in dance classes", "attending dance performances", "practicing dance routines", "performing at events"], "content_ch": "社会团体"}
+{"category": "exhibition center", "action": ["attending an event", "exhibiting products", "networking with professionals", "participating in workshops"], "content_ch": "舞蹈"}
+{"category": "bathing and sweat steaming", "action": ["enjoying a hot bath", "participating in a steam room session", "relaxing in a sauna", "using aromatherapy in bathing"], "content_ch": "会展中心"}
+{"category": "children's dance", "action": ["attending dance classes", "participating in dance performances", "watching dance recitals", "practicing dance routines"], "content_ch": "洗浴汗蒸"}
+{"category": "other vehicles", "action": ["riding a scooter", "cycling a bicycle", "driving an ATV", "operating a moped"], "content_ch": "少儿舞蹈"}
+{"category": "sales center", "action": ["visiting the sales center", "engaging with sales representatives", "attending promotional events", "making purchases"], "content_ch": "其他车辆"}
+{"category": "bus stop", "action": ["waiting for the bus", "boarding the bus", "checking bus schedules", "interacting with other passengers"], "content_ch": "售楼中心"}
+{"category": "other special delicacies", "action": ["tasting unique flavors", "sampling traditional dishes", "pairing with local beverages", "sharing recipes with friends"], "content_ch": "公交车站"}
+{"category": "bowling alley", "action": ["playing bowling games", "enjoying food and drinks", "hosting parties or events", "participating in league competitions"], "content_ch": "其他特色美食"}
+{"category": "dessert shop", "action": ["tasting various desserts", "purchasing sweet treats", "enjoying desserts with friends", "attending dessert-making workshops"], "content_ch": "保龄球馆"}
+{"category": "other cultural education", "action": ["attending workshops", "participating in cultural exchanges", "visiting museums", "engaging in discussions about history"], "content_ch": "甜品店"}
+{"category": "other parent-child education", "action": ["attending workshops together", "reading educational books", "participating in interactive learning activities", "discussing topics of interest"], "content_ch": "其他文化教育"}
+{"category": "small commodity market", "action": ["browsing various stalls", "purchasing goods", "negotiating prices", "interacting with local vendors"], "content_ch": "其他亲子教育"}
+{"category": "script murder", "action": ["writing a murder mystery script", "producing a murder-themed play", "directing a film with murder as the central theme", "analyzing murder plots in scripts"], "content_ch": "小商品市场"}
+{"category": "braised pot", "action": ["cooking with a braised pot", "serving food from a braised pot", "cleaning the braised pot", "experimenting with new recipes"], "content_ch": "剧本杀"}
+{"category": "sichuan cuisine", "action": ["tasting spicy dishes", "exploring local markets", "attending cooking classes", "enjoying communal dining experiences"], "content_ch": "焖锅"}
+{"category": "youth hostel", "action": ["booking a room", "meeting fellow travelers", "participating in group activities", "accessing communal facilities"], "content_ch": "川菜"}
+{"category": "budget hotel", "action": ["booking a budget hotel", "staying in affordable accommodations", "utilizing budget hotel amenities", "reviewing budget hotel experiences"], "content_ch": "青年旅舍"}
+{"category": "subway station", "action": ["boarding a train", "purchasing a ticket", "waiting for the train", "exiting the station"], "content_ch": "经济酒店"}
+{"category": "high-end cosmetics", "action": ["purchasing high-end cosmetics", "applying high-end makeup", "attending beauty workshops", "exploring skincare routines"], "content_ch": "地铁站"}
+{"category": "japanese fast food", "action": ["ordering takeout", "enjoying dine-in meals", "trying new menu items", "sharing meals with friends"], "content_ch": "高端化妆品"}
+{"category": "hotel apartment", "action": ["renting a hotel apartment", "cooking in the hotel apartment", "relaxing in the hotel apartment", "exploring nearby amenities"], "content_ch": "日式快餐"}
+{"category": "university", "action": ["attending lectures", "participating in student clubs", "conducting research", "engaging in extracurricular activities"], "content_ch": "酒店公寓"}
+{"category": "jewelry accessories", "action": ["adorn oneself with jewelry", "gifting jewelry to others", "attending jewelry exhibitions", "customizing jewelry pieces"], "content_ch": "大学"}
+{"category": "luxury bag", "action": ["purchasing a luxury bag", "caring for a luxury bag", "showcasing a luxury bag", "gifting a luxury bag"], "content_ch": "珠宝饰品"}
+{"category": "headphones and audio", "action": ["listening to music", "making phone calls", "watching movies with immersive sound", "using noise-canceling features"], "content_ch": "奢侈品包"}
+{"category": "play activities", "action": ["engaging in outdoor games", "participating in team sports", "exploring creative hobbies", "hosting playdates with friends"], "content_ch": "耳机音响"}
+{"category": "shanxi cuisine", "action": ["tasting traditional dishes", "cooking shanxi recipes", "exploring local food markets", "sharing meals with others"], "content_ch": "玩乐活动"}
+{"category": "sports venues", "action": ["attending a game", "participating in sporting events", "enjoying food and beverages", "taking guided tours of the venue"], "content_ch": "陕西菜"}
+{"category": "other life services", "action": ["receiving personal care services", "utilizing home maintenance services", "accessing health and wellness services", "engaging in educational or training sessions"], "content_ch": "体育场馆"}
+{"category": "other office", "action": ["attending meetings", "collaborating on projects", "organizing office supplies", "maintaining office equipment"], "content_ch": "其他生活服务"}
+{"category": "hair transplant", "action": ["consulting with a hair transplant specialist", "researching hair transplant techniques", "preparing for the hair transplant procedure", "recovering post-transplant"], "content_ch": "其他办公"}
+{"category": "ferry port", "action": ["boarding a ferry", "disembarking from a ferry", "buying tickets for the ferry", "waiting for the ferry", "exploring nearby shops", "enjoying views of the water"], "content_ch": "植发"}
+{"category": "cosmetic surgery hospital", "action": ["consulting with a surgeon", "undergoing a procedure", "attending follow-up appointments", "receiving pre-operative care"], "content_ch": "口岸渡口"}
+{"category": "parent-child photography", "action": ["posing for family portraits", "capturing candid moments", "selecting outfits for the shoot", "choosing a location for the photography session"], "content_ch": "整形医院"}
+{"category": "men's shoes", "action": ["buying new shoes", "trying on different styles", "cleaning and maintaining shoes", "pairing shoes with outfits"], "content_ch": "亲子摄影"}
+{"category": "welfare agency", "action": ["providing social services", "conducting community outreach", "offering financial assistance", "organizing support groups"], "content_ch": "男鞋"}
+{"category": "maternity caregiver/childcare helper", "action": ["providing childcare support", "assisting with daily routines", "organizing developmental activities", "offering emotional support to parents"], "content_ch": "福利机构"}
+{"category": "movie theater", "action": ["watching a movie", "buying popcorn and snacks", "attending special screenings", "participating in movie discussions"], "content_ch": "月嫂/育儿嫂"}
+{"category": "snack", "action": ["preparing a snack", "sharing snacks with friends", "trying new snack flavors", "packing snacks for a trip"], "content_ch": "电影院"}
+{"category": "villa", "action": ["vacationing at the villa", "hosting gatherings at the villa", "relaxing by the villa pool", "exploring the villa surroundings"], "content_ch": "小吃"}
+{"category": "government agency", "action": ["accessing public services", "participating in community programs", "attending informational meetings", "providing feedback on policies"], "content_ch": "别墅"}
+{"category": "clothing and footwear", "action": ["shopping for new apparel", "trying on shoes", "attending fashion events", "organizing a clothing swap"], "content_ch": "政府机构"}
+{"category": "massage/foot therapy", "action": ["receiving a foot massage", "experiencing reflexology", "enjoying a full-body massage", "relaxing during a spa treatment"], "content_ch": "服饰鞋靴"}
+{"category": "driving school", "action": ["taking driving lessons", "practicing driving skills", "attending classroom sessions", "preparing for driving tests"], "content_ch": "按摩/足疗"}
+{"category": "road rescue", "action": ["assisting stranded vehicles", "providing emergency medical support", "coordinating traffic management", "dispatching tow services"], "content_ch": "驾校"}
+{"category": "beverage store", "action": ["purchasing beverages", "sampling new drinks", "exploring beverage options", "participating in tastings"], "content_ch": "道路救援"}
+{"category": "dry pot", "action": ["cooking dry pot dishes", "sharing dry pot recipes", "visiting a dry pot restaurant", "enjoying dry pot meals with friends"], "content_ch": "饮品店"}
+{"category": "comprehensive market", "action": ["conducting market research", "analyzing consumer behavior", "identifying market trends", "developing marketing strategies"], "content_ch": "干锅"}
+{"category": "science and technology museum", "action": ["exploring interactive exhibits", "attending educational workshops", "participating in guided tours", "watching science demonstrations"], "content_ch": "综合市场"}
+{"category": "parental services", "action": ["accessing childcare resources", "attending parenting workshops", "utilizing family counseling services", "participating in support groups"], "content_ch": "科技馆"}
+{"category": "parent-child playtime", "action": ["playing games together", "reading books", "doing arts and crafts", "exploring nature", "cooking simple recipes"], "content_ch": "亲子服务"}
+{"category": "other medical", "action": ["consulting a healthcare professional", "receiving medical treatment", "participating in health education programs", "engaging in preventive healthcare measures"], "content_ch": "亲子游乐"}
+{"category": "high fashion", "action": ["attending fashion shows", "purchasing designer clothing", "following fashion trends", "participating in fashion styling"], "content_ch": "其他医疗"}
+{"category": "botanical garden", "action": ["exploring various plant species", "participating in guided tours", "enjoying peaceful walks", "attending educational workshops"], "content_ch": "高级时装"}
+{"category": "concert hall", "action": ["attending a concert", "participating in events", "enjoying live performances", "gathering with friends"], "content_ch": "植物园"}
+{"category": "women and children hospital", "action": ["receiving medical care", "attending health education classes", "participating in support groups", "visiting patients", "accessing maternity services"], "content_ch": "音乐厅"}
+{"category": "funeral services", "action": ["attending a funeral service", "planning a memorial", "arranging transportation for attendees", "providing emotional support to grieving families"], "content_ch": "妇幼医院"}
+{"category": "consulting services", "action": ["providing strategic advice", "conducting market research", "developing business strategies", "offering training programs"], "content_ch": "丧葬服务"}
+{"category": "shunde cuisine", "action": ["sampling regional dishes", "exploring local food markets", "attending cooking classes", "sharing recipes with friends"], "content_ch": "咨询服务"}
+{"category": "children's swimming", "action": ["taking swimming lessons", "participating in swim team", "enjoying water games", "attending swim camps"], "content_ch": "顺德菜"}
+{"category": "public leisure spaces", "action": ["relaxing in the park", "participating in community events", "engaging in outdoor sports", "walking dogs"], "content_ch": "儿童游泳"}
+{"category": "streetwear", "action": ["shopping for streetwear apparel", "attending streetwear events", "styling outfits with streetwear", "connecting with streetwear communities"], "content_ch": "公共休闲场所"}
+{"category": "other luxury goods", "action": ["purchasing luxury items", "gifting luxury products", "showcasing luxury collections", "investing in luxury goods"], "content_ch": "潮牌"}
+{"category": "freight train station", "action": ["loading cargo", "unloading cargo", "scheduling shipments", "inspecting freight cars"], "content_ch": "其他奢侈品"}
+{"category": "transportation facilities", "action": ["utilizing public transport", "renting vehicles", "accessing parking services", "using bike-sharing programs"], "content_ch": "货运火车站"}
+{"category": "children's ball games", "action": ["playing outdoor games", "organizing community events", "coaching young players", "watching matches"], "content_ch": "交通设施"}
+{"category": "airport", "action": ["checking in for a flight", "going through security checks", "waiting at the departure gate", "boarding the airplane"], "content_ch": "儿童球类"}
+{"category": "hairdressing", "action": ["getting a haircut", "styling hair", "receiving hair treatments", "attending hairdressing workshops"], "content_ch": "机场"}
+{"category": "parent-child", "action": ["engaging in activities together", "sharing educational experiences", "attending events as a family", "discussing daily experiences"], "content_ch": "美发"}
+{"category": "kindergarten", "action": ["attending classes", "participating in outdoor activities", "engaging in arts and crafts", "reading storybooks"], "content_ch": "亲子"}
+{"category": "makeup styling", "action": ["applying makeup for special occasions", "experimenting with different makeup looks", "sharing makeup tips and techniques", "creating makeup tutorials for online platforms"], "content_ch": "幼儿园"}
+{"category": "tableware and kitchenware", "action": ["setting the table", "cooking meals", "serving food", "cleaning kitchenware"], "content_ch": "彩妆造型"}
+{"category": "mexican cuisine", "action": ["dining at a Mexican restaurant", "trying traditional Mexican dishes", "cooking Mexican recipes at home", "exploring regional Mexican flavors"], "content_ch": "餐具厨具"}
+{"category": "pet store", "action": ["purchasing pet supplies", "adopting a pet", "interacting with animals", "seeking pet care advice"], "content_ch": "墨西哥菜"}
+{"category": "wedding favors", "action": ["choosing unique favors", "packaging favors for guests", "personalizing favors with names", "distributing favors at the reception"], "content_ch": "婚庆摄影"}
+{"category": "government service center", "action": ["accessing public records", "applying for permits", "seeking assistance with regulations", "attending informational workshops"], "content_ch": "宠物店"}
+{"category": "other parent-child services", "action": ["attending parenting workshops", "participating in family activities", "accessing childcare resources", "engaging in educational programs"], "content_ch": "婚礼喜品"}
+{"category": "rehabilitation sanatorium", "action": ["participating in therapy sessions", "enjoying recreational activities", "receiving medical treatments", "attending wellness workshops"], "content_ch": "政务服务中心"}
+{"category": "other wholesale markets", "action": ["purchasing bulk products", "negotiating prices", "exploring various vendors", "analyzing market trends"], "content_ch": "其他亲子服务"}
+{"category": "digital products", "action": ["downloading digital items", "using digital applications", "purchasing software licenses", "subscribing to online services"], "content_ch": "康复疗养院"}
+{"category": "comprehensive early education", "action": ["attending educational programs", "participating in creative activities", "engaging in social interactions", "developing foundational skills"], "content_ch": "其他批发市场"}
+{"category": "ferry terminal", "action": ["waiting for the ferry", "boarding the ferry", "purchasing tickets", "enjoying waterfront views"], "content_ch": "数码产品"}
+{"category": "french cuisine", "action": ["cooking traditional dishes", "tasting various pastries", "pairing wines with meals", "visiting French restaurants"], "content_ch": "综合早教"}
+{"category": "other supermarkets are convenient", "action": ["shopping for groceries", "finding convenient locations", "accessing fresh produce", "utilizing customer services"], "content_ch": "客运港"}
+{"category": "animal medical care", "action": ["providing vaccinations", "performing health check-ups", "administering treatments for illnesses", "educating pet owners about animal health"], "content_ch": "山西菜"}
+{"category": "fitness", "action": ["attending fitness classes", "participating in group workouts", "training with personal trainers", "engaging in outdoor activities"], "content_ch": "法国菜"}
+{"category": "industrial zone", "action": ["conducting business operations", "engaging in manufacturing activities", "providing logistics services", "collaborating with local enterprises"], "content_ch": "其他超市便利"}
+{"category": "ear cleaning salon", "action": ["receiving ear cleaning services", "consulting about ear health", "purchasing ear care products", "attending informational workshops"], "content_ch": "动物医疗"}
+{"category": "industrial park", "action": ["leasing office spaces", "attending business networking events", "utilizing manufacturing facilities", "engaging in research and development activities"], "content_ch": "运动健身"}
+{"category": "northwest cuisine", "action": ["tasting local dishes", "attending food festivals", "visiting farmers' markets", "learning about food traditions"], "content_ch": "工业区"}
+{"category": "residential community", "action": ["participating in community events", "engaging in neighborly interactions", "utilizing community facilities", "volunteering for local projects"], "content_ch": "采耳馆"}
+{"category": "other retail stores", "action": ["browsing products", "making purchases", "comparing prices", "utilizing customer service"], "content_ch": "产业园区"}
+{"category": "xinjiang cuisine", "action": ["tasting traditional dishes", "visiting local restaurants", "attending food festivals", "learning about culinary traditions"], "content_ch": "西北菜"}
+{"category": "tea restaurant", "action": ["tasting various tea blends", "enjoying light snacks", "attending tea tasting events", "exploring tea-based desserts"], "content_ch": "住宅小区"}
+{"category": "parent-child education", "action": ["attending educational workshops", "reading books together", "engaging in arts and crafts", "participating in outdoor activities"], "content_ch": "其他零售店铺"}
+{"category": "children's chess art", "action": ["creating chess-themed artwork", "organizing chess art workshops", "displaying chess art in children's events", "encouraging children to explore chess through art"], "content_ch": "新疆菜"}
+{"category": "gold luxury goods recycling", "action": ["selling gold items", "collecting old jewelry", "refurbishing luxury goods", "donating recycled items"], "content_ch": "茶餐厅"}
+{"category": "parking lot", "action": ["parking vehicles", "exiting vehicles", "walking to nearby locations", "monitoring parking availability"], "content_ch": "亲子教育"}
+{"category": "specialist hospital", "action": ["receiving specialized medical treatment", "consulting with healthcare professionals", "participating in rehabilitation programs", "conducting medical research"], "content_ch": "儿童棋艺"}
+{"category": "smart home", "action": ["controlling devices remotely", "automating home systems", "monitoring energy usage", "enhancing home security"], "content_ch": "黄金奢侈品回收"}
+{"category": "fishing garden", "action": ["fishing in the garden pond", "relaxing by the water", "tending to the plants", "hosting a picnic near the water"], "content_ch": "停车场"}
+{"category": "menswear", "action": ["shopping for clothing", "trying on outfits", "accessorizing with ties or belts", "attending fashion events"], "content_ch": "专科医院"}
+{"category": "beauty car wash", "action": ["getting a car wash", "applying wax and polish", "cleaning the interior", "offering car detailing services"], "content_ch": "智能家居"}
+{"category": "medical devices", "action": ["using medical devices for diagnosis", "providing training on medical devices", "maintaining medical devices", "researching new medical device technologies"], "content_ch": "垂钓园"}
+{"category": "theater", "action": ["attending a performance", "participating in a workshop", "engaging in discussions about plays", "creating theater productions"], "content_ch": "男装"}
+{"category": "other beauties", "action": ["appreciating natural landscapes", "exploring artistic expressions", "discovering hidden gems", "experiencing cultural events"], "content_ch": "美容洗车"}
+{"category": "vegetable dish", "action": ["cooking a vegetable dish", "serving a vegetable dish", "pairing a vegetable dish with a protein", "sharing a vegetable dish recipe"], "content_ch": "医疗器械"}
+{"category": "other attractions", "action": ["exploring local culture", "attending live performances", "participating in guided tours", "visiting museums and galleries", "engaging in outdoor activities"], "content_ch": "剧院"}
+{"category": "dormitory", "action": ["living in a dormitory", "studying in a communal area", "participating in dorm activities", "interacting with roommates"], "content_ch": "其他丽人"}
+{"category": "landscape", "action": ["hiking in natural terrains", "photographing scenic views", "exploring diverse ecosystems", "painting outdoor scenery"], "content_ch": "素菜"}
+{"category": "children's art", "action": ["creating artwork", "displaying artwork", "participating in art classes", "sharing artwork with friends and family"], "content_ch": "其他景点"}
+{"category": "internet café", "action": ["browsing the internet", "printing documents", "playing online games", "enjoying beverages and snacks"], "content_ch": "宿舍"}
+{"category": "other household daily use", "action": ["cleaning the house", "cooking meals", "doing laundry", "organizing living spaces"], "content_ch": "园林"}
+{"category": "other martial arts fighting", "action": ["practicing techniques", "participating in sparring", "attending training sessions", "competing in tournaments"], "content_ch": "儿童美术"}
+{"category": "more delicious food", "action": ["tasting new recipes", "sampling local cuisine", "cooking gourmet meals", "sharing food experiences with others"], "content_ch": "网吧"}
+{"category": "boxing gym", "action": ["training for boxing matches", "taking boxing lessons", "participating in sparring sessions", "attending fitness classes"], "content_ch": "其他居家日用"}
+{"category": "retail store", "action": ["shopping for products", "browsing merchandise", "attending sales events", "requesting customer assistance"], "content_ch": "其他武术格斗"}
+{"category": "hong kong cuisine", "action": ["tasting traditional dishes", "exploring food markets", "attending cooking classes", "visiting local restaurants"], "content_ch": "更多美食"}
+{"category": "duty-free shop", "action": ["shopping for luxury goods", "browsing for souvenirs", "comparing prices on alcohol", "exploring cosmetics and fragrances"], "content_ch": "拳馆"}
+{"category": "shoe store", "action": ["shopping for new shoes", "trying on different styles", "comparing prices", "exploring various brands"], "content_ch": "零售店铺"}
+{"category": "manicure and eyelash extensions", "action": ["receiving a manicure", "enjoying eyelash extensions", "attending beauty appointments", "maintaining nail and eyelash care"], "content_ch": "香港美食"}
+{"category": "other specialty hospitals", "action": ["receiving specialized medical treatment", "consulting with specialty doctors", "participating in clinical trials", "undergoing diagnostic tests"], "content_ch": "免税店"}
+{"category": "other convenience services", "action": ["accessing transportation services", "utilizing delivery services", "receiving home maintenance assistance", "engaging in personal shopping services"], "content_ch": "鞋店"}
+{"category": "memorial hall", "action": ["visiting the memorial hall", "attending a ceremony", "participating in educational programs", "reflecting on historical events"], "content_ch": "其他美甲美睫"}
+{"category": "to be deleted", "action": ["removing outdated information", "clearing unnecessary files", "deleting old accounts", "erasing temporary data"], "content_ch": "其他专科医院"}
+{"category": "other hotels and inns", "action": ["booking a room", "exploring amenities", "attending events hosted by the inn", "providing feedback on services"], "content_ch": "其他便民服务"}
+{"category": "karaoke television", "action": ["singing along to songs", "hosting karaoke parties", "choosing song playlists", "performing duets with friends"], "content_ch": "纪念馆"}
+{"category": "resort", "action": ["relaxing by the pool", "participating in water sports", "enjoying spa treatments", "exploring nearby nature trails"], "content_ch": "待删除"}
+{"category": "tailor alterations", "action": ["fitting garments", "making alterations to clothing", "providing style advice", "hemming pants"], "content_ch": "其他酒店宾馆"}
+{"category": "ear, nose, and throat hospital", "action": ["receiving medical consultations", "undergoing diagnostic examinations", "participating in treatment procedures", "attending follow-up appointments", "accessing specialized therapies"], "content_ch": "KTV"}
+{"category": "zoo", "action": ["visiting the zoo", "observing animals", "participating in educational programs", "taking photographs of animals"], "content_ch": "度假村"}
+{"category": "ski resort", "action": ["skiing on the slopes", "snowboarding on the trails", "enjoying après-ski activities", "taking ski lessons"], "content_ch": "裁缝改衣"}
+{"category": "other home building materials", "action": ["purchasing building materials", "selecting sustainable options", "comparing prices", "consulting with professionals"], "content_ch": "耳鼻喉医院"}
+{"category": "talent training", "action": ["participating in workshops", "attending coaching sessions", "engaging in practice exercises", "receiving feedback from mentors"], "content_ch": "动物园"}
+{"category": "yunnan-guizhou cuisine", "action": ["tasting traditional dishes", "exploring local food markets", "attending cooking classes", "sharing meals with family and friends"], "content_ch": "滑雪场"}
+{"category": "cantonese cuisine", "action": ["trying different dishes", "attending cooking classes", "visiting local restaurants", "hosting a Cantonese dinner party"], "content_ch": "其他家居建材"}
+{"category": "other maintenance recovery", "action": ["conducting routine checks", "performing repairs", "updating maintenance schedules", "analyzing recovery performance"], "content_ch": "才艺培训"}
+{"category": "other foreign restaurants", "action": ["dining at foreign restaurants", "trying new cuisines", "experiencing different dining atmospheres", "providing reviews for foreign restaurants"], "content_ch": "云贵菜"}
+{"category": "other hotels", "action": ["booking a room at the hotel", "attending events hosted by the hotel", "using hotel amenities", "reviewing hotel services"], "content_ch": "粤菜"}
+{"category": "bank & credit union & ATM", "action": ["withdrawing cash from the ATM", "depositing money at the bank", "applying for a loan", "opening a bank account"], "content_ch": "其他维修回收"}
+{"category": "luxury jewelry and watches", "action": ["purchasing luxury items", "wearing luxury accessories", "collecting limited edition pieces", "gifting luxury jewelry and watches"], "content_ch": "其他外国餐厅"}
+{"category": "other clothing and footwear", "action": ["shopping for unique clothing items", "selecting stylish footwear", "trying on various outfits", "combining different accessories", "following fashion trends"], "content_ch": "其他酒店"}
+{"category": "convenience store", "action": ["purchasing snacks", "buying beverages", "picking up household items", "accessing personal care products"], "content_ch": "银行&信用社&ATM"}
+{"category": "amusement park", "action": ["enjoying rides", "playing games", "watching live shows", "tasting park food"], "content_ch": "奢侈品珠宝钟表"}
+{"category": "pet supplies", "action": ["purchasing pet food", "buying pet toys", "acquiring grooming products", "selecting pet accessories"], "content_ch": "其他服饰鞋靴"}
+{"category": "other exhibition halls", "action": ["attending exhibitions", "participating in workshops", "networking with attendees", "exploring displayed artworks"], "content_ch": "便利店"}
+{"category": "dental clinic", "action": ["receiving dental check-ups", "undergoing dental treatments", "consulting with dentists", "educating patients about oral hygiene"], "content_ch": "游乐园"}
+{"category": "second-hand goods market", "action": ["browsing for unique items", "negotiating prices", "selling pre-owned goods", "discovering vintage treasures"], "content_ch": "宠物用品"}
+{"category": "gas station", "action": ["fueling vehicles", "buying snacks", "using restroom facilities", "car washing services"], "content_ch": "其他展馆展览"}
+{"category": "brain hospital", "action": ["undergoing treatment for neurological disorders", "consulting with specialists about brain health", "participating in rehabilitation programs", "attending support groups for patients and families"], "content_ch": "牙科诊所"}
+{"category": "ice rink", "action": ["skating on the ice", "watching ice hockey games", "enjoying ice skating lessons", "participating in ice rink events"], "content_ch": "二手旧货市场"}
+{"category": "other snacks and fast food", "action": ["ordering takeout", "sampling different snack options", "enjoying quick meals on the go", "sharing snacks with friends"], "content_ch": "加油加气站"}
+{"category": "farmhouse cuisine", "action": ["preparing traditional recipes", "hosting farm-to-table dining events", "exploring local ingredients", "offering cooking classes"], "content_ch": "脑科医院"}
+{"category": "office supplies", "action": ["purchasing office supplies", "organizing office supplies", "distributing office supplies", "inventorying office supplies"], "content_ch": "溜冰场"}
+{"category": "other transportation facilities", "action": ["using public transit systems", "hailing a taxi or rideshare", "renting bicycles", "utilizing car-sharing services"], "content_ch": "其他小吃快餐"}
+{"category": "motorcycles, electric vehicles, bicycles", "action": ["riding the vehicle", "maintaining the vehicle", "participating in races or events", "joining a community or club", "exploring scenic routes", "commuting to work or school", "learning about vehicle mechanics"], "content_ch": "农家菜"}
+{"category": "guesthouse", "action": ["booking a room", "relaxing in common areas", "participating in local tours", "enjoying a homemade breakfast"], "content_ch": "办公文具"}
+{"category": "fujian cuisine", "action": ["tasting traditional dishes", "exploring local food markets", "attending cooking classes", "sampling desserts unique to the region"], "content_ch": "其他交通设施"}
+{"category": "jiangsu and zhejiang cuisine", "action": ["tasting traditional dishes", "exploring local food markets", "attending cooking classes", "hosting a food tasting event"], "content_ch": "摩托&电动车&自行车"}
+{"category": "ophthalmology hospital", "action": ["receiving eye examinations", "undergoing surgical procedures", "consulting with eye specialists", "participating in vision therapy"], "content_ch": "民宿客栈"}
+{"category": "luxury goods care", "action": ["cleaning luxury items", "storing luxury goods properly", "maintaining luxury products", "insuring valuable items"], "content_ch": "福建菜"}
+{"category": "electronic cigarette", "action": ["using an electronic cigarette", "purchasing e-liquids", "charging the device", "discussing benefits with others"], "content_ch": "江浙菜"}
+{"category": "martial arts", "action": ["practicing techniques", "participating in competitions", "attending classes", "training with a partner"], "content_ch": "眼科医院"}
+{"category": "theme hotel", "action": ["staying in themed rooms", "participating in themed events", "experiencing themed dining options", "enjoying themed entertainment activities"], "content_ch": "奢侈品护理"}
+{"category": "internet", "action": ["browsing websites", "streaming videos", "social networking", "participating in online discussions"], "content_ch": "电子烟"}
+{"category": "snack nuts", "action": ["snacking on mixed nuts", "preparing nut-based recipes", "packaging nuts for gifts", "sharing nuts at gatherings"], "content_ch": "武术"}
+{"category": "charging station", "action": ["charging electric vehicles", "waiting at the charging station", "monitoring charging progress", "providing charging services to others"], "content_ch": "主题酒店"}
+{"category": "nourishing hair", "action": ["applying hair masks", "using nourishing oils", "getting regular trims", "maintaining a healthy diet"], "content_ch": "IT/互联网"}
+{"category": "aquarium", "action": ["exploring marine life", "attending educational programs", "participating in feeding demonstrations", "enjoying interactive exhibits"], "content_ch": "零食干果"}
+{"category": "large market", "action": ["browsing stalls", "purchasing fresh produce", "sampling local delicacies", "interacting with vendors"], "content_ch": "充电站"}
+{"category": "drugstore health products", "action": ["purchasing health supplements", "consulting for medication advice", "reviewing product labels", "participating in health consultations"], "content_ch": "养发"}
+{"category": "bread and pastries", "action": ["baking bread and pastries", "tasting different varieties", "pairing with beverages", "sharing with friends and family"], "content_ch": "水族馆"}
+{"category": "truck sales", "action": ["visiting a truck dealership", "negotiating prices", "exploring financing options", "test driving trucks"], "content_ch": "商场"}
+{"category": "research institution", "action": ["conducting experiments", "publishing research papers", "collaborating with other institutions", "attending conferences"], "content_ch": "大型市场"}
+{"category": "pediatric tuina", "action": ["performing tuina on children", "educating parents about tuina", "observing children's reactions during therapy", "promoting health and well-being through tuina"], "content_ch": "药店保健品"}
+{"category": "nursery/daycare", "action": [" enrolling children in the nursery", "participating in activities with children", "communicating with parents", "providing care and supervision"], "content_ch": "面包糕点"}
+{"category": "cross-dressing", "action": ["exploring different fashion styles", "participating in themed events", "attending supportive communities", "performing in drag shows"], "content_ch": "货车销售"}
+{"category": "tertiary general hospital", "action": ["receiving medical treatment", "consulting with specialists", "participating in health education programs", "accessing laboratory services"], "content_ch": "科研机构"}
+{"category": "lighter", "action": ["lighting a campfire", "lighting a candle", "using it for a barbecue", "filling it with fuel"], "content_ch": "小儿推拿"}
+{"category": "chinese restaurant", "action": ["dining at the restaurant", "ordering takeout", "participating in cooking classes", "enjoying cultural events"], "content_ch": "托班/托儿所"}
+{"category": "beauty", "action": ["applying makeup", "skincare routine", "visiting a salon", "choosing beauty products"], "content_ch": "女装"}
+{"category": "clinic & health center & medical room", "action": ["receiving medical consultations", "undergoing health check-ups", "participating in wellness programs", "accessing healthcare services"], "content_ch": "三级甲等医院"}
+{"category": "personal portrait", "action": ["taking a personal portrait", "displaying personal portraits", "sharing personal portraits on social media", "commissioning someone to create a personal portrait"], "content_ch": "打火机"}
+{"category": "halal restaurant", "action": ["dining at the halal restaurant", "ordering takeout from the halal restaurant", "reviewing the halal restaurant", "hosting events at the halal restaurant"], "content_ch": "中餐厅"}
+{"category": "yoga", "action": ["practicing yoga poses", "attending yoga classes", "meditating after yoga", "sharing yoga techniques with others"], "content_ch": "丽人"}
+{"category": "specialty cuisine", "action": ["tasting local dishes", "attending culinary events", "exploring unique flavors", "participating in cooking classes"], "content_ch": "诊所&卫生院&医务室"}
+{"category": "community services", "action": ["volunteering for local organizations", "participating in community events", "donating to local charities", "attending public meetings"], "content_ch": "个性写真"}
+{"category": "hotel", "action": ["booking a room", "attending hotel events", "using hotel amenities", "providing feedback on hotel services"], "content_ch": "清真菜馆"}
+{"category": "japanese cuisine", "action": ["enjoying sushi", "cooking traditional dishes", "participating in a tea ceremony", "sampling street food"], "content_ch": "瑜伽"}
+{"category": "lottery ticket", "action": ["purchasing a lottery ticket", "checking lottery results", "claiming lottery winnings", "giving lottery tickets as gifts"], "content_ch": "特色美食"}
+{"category": "italian cuisine", "action": ["cooking traditional dishes", "tasting various pasta types", "pairing meals with Italian wines", "exploring regional Italian flavors"], "content_ch": "便民服务"}
+{"category": "art museum", "action": ["exploring art exhibitions", "attending guided tours", "participating in workshops", "appreciating artwork"], "content_ch": "酒店"}
+{"category": "other training education", "action": ["attending workshops", "participating in online courses", "engaging in group discussions", "accessing educational resources"], "content_ch": "日本菜"}
+{"category": "taiwanese cuisine", "action": ["trying traditional dishes", "cooking Taiwanese recipes", "dining at local Taiwanese restaurants", "exploring street food markets"], "content_ch": "彩票彩券"}
+{"category": "jiangxi cuisine", "action": ["tasting traditional dishes", "exploring local ingredients", "attending cooking classes", "visiting food markets"], "content_ch": "意大利菜"}
+{"category": "other financial", "action": ["investing in stocks", "managing personal budgets", "consulting financial advisors", "analyzing market trends"], "content_ch": "美术馆"}
+{"category": "other residential", "action": ["renovating the living space", "organizing community events", "hosting social gatherings", "maintaining the garden"], "content_ch": "其他培训教育"}
+{"category": "inner mongolian cuisine", "action": ["tasting traditional dishes", "exploring regional ingredients", "attending a culinary workshop", "sharing meals with locals"], "content_ch": "台湾美食"}
+{"category": "other maternal and child care", "action": ["participating in parenting workshops", "attending prenatal classes", "accessing child health resources", "utilizing maternal support groups"], "content_ch": "江西菜"}
+{"category": "orthopedic hospital", "action": ["receiving orthopedic treatment", "participating in physical therapy", "consulting with orthopedic specialists", "undergoing diagnostic imaging"], "content_ch": "其他金融"}
+{"category": "interest life", "action": ["exploring new hobbies", "attending workshops", "joining clubs and communities", "networking with like-minded individuals"], "content_ch": "其他住宅"}
+{"category": "cancer hospital", "action": ["receiving treatment", "consulting with doctors", "participating in support groups", "accessing resources for patients", "attending educational seminars"], "content_ch": "内蒙菜"}
+{"category": "office", "action": ["attending meetings", "collaborating with colleagues", "managing tasks", "organizing office supplies"], "content_ch": "其他孕产护理"}
+{"category": "other parent-child shopping", "action": ["selecting toys together", "trying on clothes", "exploring different stores", "picking out books"], "content_ch": "骨科医院"}
+{"category": "auto repair", "action": ["diagnosing vehicle issues", "performing maintenance services", "replacing parts", "offering customer consultations"], "content_ch": "兴趣生活"}
+{"category": "badminton hall", "action": ["playing badminton", "taking badminton lessons", "hosting badminton tournaments", "enjoying social games"], "content_ch": "肿瘤医院"}
+{"category": "square", "action": ["gathering with friends", "participating in events", "enjoying street performances", "relaxing on benches"], "content_ch": "办公"}
+{"category": "Disease Prevention and Control Center", "action": ["conducting health education campaigns", "monitoring disease outbreaks", "developing prevention strategies", "collaborating with healthcare providers", "providing emergency response services"], "content_original": "疾病预防控制中心"}
+{"category": "Northeastern cuisine", "action": ["trying traditional dishes", "visiting local restaurants", "learning cooking techniques", "discovering regional ingredients"], "content_original": "东北菜"}
+{"category": "Inner Mongolian cuisine", "action": ["trying traditional Inner Mongolian dishes", "learning about the ingredients and cooking techniques", "visiting local restaurants to taste authentic flavors", "participating in a cooking class to learn how to prepare Inner Mongolian cuisine"], "content_original": "内蒙菜"}
+{"category": "real person cs", "action": ["conducting research on real people", "analyzing data for insights", "developing models for prediction", "creating applications for practical use"], "content_original": "真人CS"}
+{"category": "Digital Home Appliances", "action": ["browsing online for deals", "comparing different brands and models", "reading reviews from other customers", "visiting physical stores to see products in person"], "content_original": "综合数码家电"}
+{"category": "Massage/foot therapy", "action": ["receiving a massage", "experiencing foot therapy", "relaxing during the treatment", "improving overall well-being"], "content_original": "按摩/足疗"}
+{"category": "rock climbing gym", "action": ["climbing at the gym", "exercising and staying fit", "socializing with other climbers", "learning new climbing techniques"], "content_original": "攀岩馆"}
+{"category": "Other Chinese restaurants", "action": ["dining at the restaurant", "ordering takeout", "trying different dishes", "sharing food with others"], "content_original": "其他中餐厅"}
+{"category": "government institution", "action": ["providing public services", "enforcing laws and regulations", "organizing community events", "managing public resources"], "content_original": "政府机构"}
+{"category": "parking lot", "action": ["driving into the parking lot", "finding a parking spot", "paying for parking", "keeping an eye on your vehicle"], "content_original": "停车场"}
+{"category": "clinic & health center & medical office", "action": ["providing medical services", "conducting check-ups and diagnoses", "prescribing medications", "performing surgeries", "offering health advice"], "content_original": "诊所&卫生院&医务室"}
+{"category": "guesthouse/inn", "action": ["staying at the guesthouse/inn", "dining at the guesthouse/inn", "enjoying local hospitality", "exploring nearby attractions"], "content_original": "民宿客栈"}
+{"category": "aquarium", "action": ["observing marine life", "learning about different species", "participating in interactive exhibits", "attending feeding demonstrations"], "content_original": "水族馆"}
+{"category": "Professional Technical School", "action": ["attending classes", "participating in workshops", "collaborating with peers on projects", "seeking guidance from instructors"], "content_original": "职业技术学校"}
+{"category": "Automotive accessories", "action": ["installing car audio systems", "replacing air filters", "purchasing seat covers", "upgrading wheels and tires"], "content_original": "汽车用品"}
+{"category": "Theme hotel", "action": ["immersing in themed environments", "participating in themed events", "enjoying themed dining experiences", "exploring unique decorations and designs"], "content_original": "主题酒店"}
+{"category": "wedding gown", "action": ["trying on different gowns", "choosing the perfect design", "selecting accessories to complement the gown", "ensuring a proper fit", "making any necessary alterations"], "content_original": "婚纱礼服"}
+{"category": "other offices", "action": ["working in an office environment", "attending meetings", "managing paperwork", "collaborating with colleagues"], "content_original": "其他办公"}
+{"category": "insurance&trust", "action": ["purchasing insurance policies", "building trust with clients", "managing risk and uncertainty", "providing financial security", "establishing credibility in the market"], "content_original": "保险&信托"}
+{"category": "Food Square", "action": ["dining at the Food Square", "trying various cuisines", "enjoying food festivals", "relaxing in the square's atmosphere"], "content_original": "美食广场"}
+{"category": "men's clothing", "action": ["shopping for men's clothes", "trying on different outfits", "getting fashion advice", "learning about current trends"], "content_original": "男装"}
+{"category": "other beverage shops", "action": ["browsing the selection of beverages", "making a purchase", "enjoying a drink on the premises", "learning about the brewing process"], "content_original": "其他饮品店"}
+{"category": "retail store", "action": ["browsing products", "making purchases", "returning items", "asking for assistance from staff"], "content_original": "零售店铺"}
+{"category": "yoga", "action": ["practicing yoga poses", "meditating", "attending yoga classes", "teaching yoga to others"], "content_original": "瑜伽"}
+{"content_original": "待删除"}
+{"category": "wedding photography", "action": ["capturing special moments", "working with the couple to create a personalized plan", "taking both formal and casual photos", "ensuring high-quality images in various lighting conditions"], "content_original": "其他婚庆摄影"}
+{"category": "memorial hall", "action": ["visiting the memorial exhibits", "attending a guided tour", "paying respects to historical figures", "participating in cultural events"], "content_original": "纪念馆"}
+{"category": "psychiatric hospital", "action": ["providing mental health care", "conducting therapy sessions", "managing patient medication", "ensuring patient safety and security"], "content_original": "精神病医院"}
+{"category": "other shopping", "action": ["browsing different stores", "comparing prices", "finding unique items", "supporting local businesses"], "content_original": "其他购物"}
+{"category": "subway station", "action": ["commuting via subway", "transferring between trains", "avoiding traffic congestion", "accessing underground transportation"], "content_original": "地铁站"}
+{"category": "high-speed train station", "action": ["boarding the high-speed train", "purchasing tickets", "waiting for trains at the platform", "transferring between trains"], "content_original": "高铁站"}
+{"category": "维修回收", "action": ["进行设备维修", "回收废旧材料", "监测能源消耗", "推广可持续实践"], "content_original": "维修回收"}
+{"category": "food", "action": ["cooking food", "ordering food online", "trying new recipes", "hosting a dinner party"], "content_original": "美食"}
+{"category": "other repair recycling", "action": ["repairing items", "recycling materials", "donating usable goods", "properly disposing of waste"], "content_original": "其他维修回收"}
+{"category": "Books and Audio-Visual Materials", "action": ["browsing through books", "watching audio-visual materials", "listening to audiobooks", "borrowing or purchasing books", "returning borrowed books", "reviewing or rating audio-visual content"], "content_original": "图书音像"}
+{"category": "Cargo Train Station", "action": ["loading and unloading cargo", "monitoring train schedules", "ensuring safe transportation of goods", "coordinating logistics operations"], "content_original": "货运火车站"}
+{"category": "Wedding dress photography", "action": ["posing the bride in different wedding dresses", "capturing romantic moments between the couple", "taking close-up shots of the wedding attire details", "photographing the wedding party and guests", "utilizing creative lighting techniques for dramatic effects"], "content_original": "婚纱摄影"}
+{"category": "other sports venues", "action": ["watching a game or match", "participating in a sport", "visiting the venue for a tour", "attending a sports event or concert"], "content_original": "其他体育场馆"}
+{"category": "ski resort", "action": ["downhill skiing", "cross-country skiing", "snowboarding", "ice skating", "enjoying winter scenery", "participating in ski lessons"], "content_original": "滑雪场"}
+{"category": "decorating company", "action": ["designing interior spaces", "choosing color schemes and materials", "installing fixtures and furniture", "consulting with clients on design preferences"], "content_original": "装修公司"}
+{"category": "wedding planning", "action": ["choosing a wedding venue", "selecting a wedding theme", "planning the guest list and invitations", "organizing the wedding party attire", "arranging the wedding ceremony and reception", "coordinating the wedding decorations and flowers", "managing the wedding photography and videography", "planning the wedding entertainment and music", "handling the wedding cake and desserts", "overseeing the wedding day logistics"], "content_original": "婚礼策划"}
+{"category": "beautiful woman", "action": ["being admired for beauty", "participating in fashion events", "inspiring artistic creations", "representing cultural values"], "content_original": "丽人"}
+{"category": "other jewelry watches", "action": ["wearing the jewelry watch", "gifting other jewelry watches", "purchasing other jewelry watches", "maintaining other jewelry watches"], "content_original": "其他珠宝钟表"}
+{"category": "other retail stores", "action": ["browsing products", "making purchases", "comparing prices", "returning items"], "content_original": "其他零售店铺"}
+{"category": "运动健身", "action": ["进行体育活动", "锻炼身体", "保持健康生活方式"], "content_original": "运动健身"}
+{"category": "trampoline", "action": ["jumping on the trampoline", "playing trampoline games", "exercising with a trampoline", "entertaining at a trampoline park"], "content_original": "蹦床"}
+{"category": "karate dojo", "action": ["practicing karate techniques", "sparring with other students", "learning new moves from the instructor", "improving physical fitness"], "content_original": "空手道馆"}
+{"category": "Agricultural, Forestry, Animal Husbandry, and Fishery Base", "action": ["planting crops", "harvesting fruits and vegetables", "raising livestock", "breeding fish and seafood", "forestry management", "research and development of agricultural technologies", "providing training and education for farmers", "marketing and selling agricultural products"], "content_original": "农林牧渔基地"}
+{"category": "decorating materials", "action": ["choosing colors and patterns", "selecting furniture styles", "arranging lighting fixtures", "acquiring textiles and rugs"], "content_original": "装修建材"}
+{"category": "pet store", "action": ["buying pet supplies", "adopting a pet", "visiting with the animals", "getting advice from staff on pet care"], "content_original": "宠物店"}
+{"category": "high-end cosmetics", "action": ["applying high-end makeup", "trying out luxurious skincare routines", "visiting exclusive cosmetic boutiques", "attending beauty product launches"], "content_original": "高端化妆品"}
+{"category": "tattoo", "action": ["getting a tattoo", "choosing tattoo design", "undergoing tattoo removal process", "applying temporary tattoos"], "content_original": "纹身"}
+{"category": "baked fish", "action": ["preparing the baked fish dish", "cooking the fish in the oven", "seasoning the fish with herbs and spices", "serving the baked fish hot"], "content_original": "烤鱼"}
+{"category": "finance", "action": ["managing finances", "investing money", "tracking expenses", "planning for the future"], "content_original": "金融"}
+{"category": "travel agency", "action": ["planning trips for clients", "booking flights and hotels", "offering travel packages", "providing travel advice"], "content_original": "旅行社"}
+{"category": "other natural landscapes", "action": ["hiking", "camping", "photographing the scenery", "studying local flora and fauna"], "content_original": "其他自然景观"}
+{"category": "Other household essentials", "action": ["cleaning the house", "organizing storage spaces", "maintaining appliances and electronics", "upgrading home decor"], "content_original": "其他居家日用"}
+{"category": "hot pot", "action": ["cooking hot pot", "enjoying hot pot with friends and family", "ordering hot pot at a restaurant", "learning how to make different types of hot pot broth"], "content_original": "火锅"}
+{"category": "Game City", "action": ["visiting game centers", "participating in gaming events", "purchasing gaming merchandise", "interacting with fellow gamers"], "content_original": "电玩城"}
+{"category": "outdoor sports", "action": ["participating in hiking", "engaging in cycling", "playing tennis", "swimming in lakes or pools"], "content_original": "运动户外"}
+{"category": "Chinese fast food", "action": ["eating at a Chinese restaurant", "ordering takeout or delivery", "cooking Chinese dishes at home", "trying different regional Chinese cuisines"], "content_original": "中式快餐"}
+{"category": "tea house", "action": ["drinking tea", "enjoying traditional snacks", "relaxing in a serene environment", "participating in tea ceremonies"], "content_original": "茶馆"}
+{"category": "other beauty care", "action": ["getting a massage", "trying out spa treatments", "pampering oneself with facials", "exercising for overall wellness"], "content_original": "其他化妆护理"}
+{"category": "sports equipment", "action": ["using sports gear for exercise", "choosing the right equipment for a sport", "maintaining and storing sports equipment", "purchasing new sports equipment"], "content_original": "运动装备"}
+{"category": "toy store", "action": ["browsing toys for children", "selecting gifts for special occasions", "participating in toy demonstrations", "purchasing educational toys"], "content_original": "玩具店"}
+{"category": "Children's Art", "action": ["creating art with children", "displaying children's artwork", "teaching art techniques to kids", "organizing art exhibitions for young artists"], "content_original": "儿童美术"}
+{"category": "nanny services", "action": ["caring for a month-old baby", "providing childcare assistance", "helping with infant care tasks", "supporting new mothers"], "content_original": "月嫂/育儿嫂"}
+{"category": "home decoration", "action": ["choosing furniture", "selecting color schemes", "arranging interior design", "purchasing decorative items"], "content_original": "家居装饰"}
+{"category": "racing car", "action": ["driving the racing car", "watching a racing car race", "participating in racing car competitions", "designing and manufacturing racing cars"], "content_original": "赛车"}
+{"category": "rehabilitation sanatorium", "action": ["undergoing physical therapy", "participating in occupational therapy", "engaging in recreational activities for relaxation", "receiving medical treatment and care from staff"], "content_original": "康复疗养院"}
+{"category": "cuisine", "action": ["cooking dry pot dishes", "ordering dry pot at a restaurant", "learning about the history of dry pot cuisine", "sharing dry pot recipes with others"], "content_original": "干锅"}
+{"category": "library", "action": ["borrowing books", "studying in the library", "attending events or workshops", "working as a librarian"], "content_original": "图书馆"}
+{"category": "household essentials", "action": ["cleaning the house", "organizing household items", "cooking meals", "doing laundry"], "content_original": "居家日用"}
+{"category": "characteristic cuisine", "action": ["trying local specialties", "visiting food markets", "attending cooking classes", "sampling street food"], "content_original": "特色美食"}
+{"category": "consulting services", "action": ["offering expert advice", "conducting market research", "developing business strategies", "analyzing data to inform decisions"], "content_original": "咨询服务"}
+{"category": "interests life", "action": ["pursuing hobbies", "learning new skills", "traveling to explore different places", "spending time with family and friends"], "content_original": "兴趣生活"}
+{"category": "Golden luxury items recycling", "action": ["recycling gold and other precious materials", "donating recycled materials to artisans", "educating the public on sustainable luxury", "collaborating with designers for eco-friendly collections"], "content_original": "黄金奢侈品回收"}
+{"category": "ice rink", "action": ["skating on the ice rink", "watching an ice show or event", "renting skates and equipment", "enjoying hot chocolate or snacks at the rink's café"], "content_original": "溜冰场"}
+{"category": "nursery", "action": ["playing with toys", "learning new things", "making art projects", "having story time"], "content_original": "幼儿园"}
+{"category": "other obstetric care", "action": ["providing prenatal education", "conducting routine check-ups", "performing ultrasounds and screenings", "assisting with deliveries and postpartum care"], "content_original": "其他孕产护理"}
+{"category": "Meat crab pot", "action": ["cooking meat crabs in a pot", "preparing the ingredients for the dish", "serving the meal to customers", "cleaning and maintaining the cooking equipment"], "content_original": "肉蟹煲"}
+{"category": "Science Museum", "action": ["visiting exhibits", "attending lectures", "participating in workshops", "conducting research"], "content_original": "科技馆"}
+{"category": "other beauties", "action": ["appreciating natural scenery", "visiting art museums", "attending cultural performances"], "content_original": "其他丽人"}
+{"category": "tea drinks fruit juice", "action": ["drinking tea", "enjoying fruit juice", "having a refreshing beverage", "savoring the taste of tea and fruit juice"], "content_original": "茶饮果汁"}
+{"category": "home customization", "action": ["choosing furniture and decorations", "selecting color schemes and materials", "designing layouts and spaces", "considering energy efficiency and sustainability"], "content_original": "家居定制"}
+{"category": "german cuisine", "action": ["savoring traditional dishes like schnitzel and sauerbraten", "enjoying local beers", "participating in Oktoberfest celebrations"], "content_original": "德国菜"}
+{"category": "other attractions", "action": ["visiting museums", "exploring art galleries", "attending concerts or performances", "participating in festivals"], "content_original": "其他景点"}
+{"category": "language training", "action": ["learning new vocabulary", "practicing grammar", "engaging in conversations with native speakers", "watching language learning videos"], "content_original": "语言培训"}
+{"category": "Children's ball games", "action": ["playing soccer", "organizing a ball tournament", "practicing dribbling skills", "watching a professional ball match"], "content_original": "儿童球类"}
+{"category": "port terminal", "action": ["loading and unloading cargo", "boarding and disembarking from ships", "conducting customs inspections", "providing travel information to passengers"], "content_original": "港口码头"}
+{"category": "Electronic appliance repair", "action": ["diagnosing the issue with the appliance", "ordering necessary replacement parts", "performing the repair", "testing the appliance after repair", "providing maintenance tips to customers"], "content_original": "数码家电维修"}
+{"category": "Makeup and skincare", "action": ["applying makeup", "trying out new skincare products", "watching tutorials on makeup techniques", "sharing personal favorite skincare routines"], "content_original": "化妆护理"}
+{"category": "bank & credit union & ATM", "action": ["depositing money", "withdrawing cash", "transferring funds", "paying bills", "applying for loans", "managing investments", "using ATMs for convenient access"], "content_original": "银行&信用社&ATM"}
+{"category": "shoe repair and polish", "action": ["repairing shoes", "polishing shoes"], "content_original": "修鞋擦鞋"}
+{"category": "phone", "action": ["making a call", "texting", "browsing the internet", "playing games"], "content_original": "手机"}
+{"category": "department store goods", "action": ["browsing through the store", "comparing prices of different items", "purchasing desired goods", "returning unwanted products"], "content_original": "百货"}
+{"category": "welfare institution", "action": ["providing social services", "offering support to vulnerable populations", "organizing community events", "collaborating with other organizations"], "content_original": "福利机构"}
+{"category": "clothing accessories", "action": ["selecting clothing items", "choosing accessory types", "trying on outfits", "purchasing fashion goods"], "content_original": "服饰配件"}
+{"category": "park", "action": ["visiting the park", "having a picnic", "exercising in the park", "enjoying outdoor activities"], "content_original": "公园"}
+{"category": "Other parent-child education", "action": ["organizing activities for parents and children to spend time together", "providing educational resources for parents to teach their children", "offering workshops on parenting skills", "creating a community for families to connect with each other"], "content_original": "其他亲子教育"}
+{"category": "training education", "action": ["attending classes", "participating in workshops", "conducting research", "collaborating with peers"], "content_original": "培训教育"}
+{"category": "Children's music", "action": ["listening to children's songs", "watching children's music videos", "attending concerts for kids", "learning to play musical instruments as a child"], "content_original": "儿童音乐"}
+{"category": "Chun De cuisine", "action": ["trying local dishes", "learning about culinary traditions", "visiting restaurants", "discovering ingredients", "cooking Chun De recipes"], "content_original": "顺德菜"}
+{"category": "Company", "action": ["conducting business meetings", "developing new products", "hiring employees", "establishing partnerships"], "content_original": "公司"}
+{"category": "Other residential buildings", "action": ["living in the building", "visiting friends or family who live there", "participating in community events", "maintaining the property"], "content_original": "其他住宅"}
+{"category": "other food", "action": ["preparing and cooking the other food", "serving the other food to customers", "marketing and promoting the other food", "packaging and distributing the other food"], "content_original": "其他美食"}
+{"category": "Electronic cigarette", "action": ["vaping", "purchasing e-liquids", "exploring different flavors", "learning about nicotine levels"], "content_original": "电子烟"}
+{"category": "tea restaurant", "action": ["drinking tea", "enjoying a meal", "relaxing in the environment", "participating in tea ceremonies"], "content_original": "茶餐厅"}
+{"category": "villa", "action": ["relaxing in the villa", "exploring nearby areas", "hosting guests at the villa", "maintaining the villa's grounds"], "content_original": "别墅"}
+{"category": "Home Building Materials Market", "action": ["browsing market stalls", "negotiating prices with vendors", "comparing different materials for construction projects", "seeking advice from industry experts"], "content_original": "家居建材卖场"}
+{"category": "real estate agent", "action": ["showing properties to clients", "negotiating prices", "preparing property listings", "conducting home inspections"], "content_original": "房产中介"}
+{"category": "shoe store", "action": ["browsing shoes", "trying on shoes", "purchasing shoes", "receiving shoe-related services"], "content_original": "鞋店"}
+{"category": "hair transplantation", "action": ["performing hair transplantation procedure", "consulting with a specialist", "preparing for the surgery", "recovering after the surgery"], "content_original": "植发"}
+{"category": "Academic Tutoring for Advancement", "action": ["providing study guidance", "preparing students for exams", "improving academic performance", "offering educational resources"], "content_original": "升学辅导"}
+{"category": "bowling alley", "action": ["playing bowling games", "enjoying snacks and drinks", "celebrating special occasions", "socializing with friends and family"], "content_original": "保龄球馆"}
+{"category": "supermarket convenience", "action": ["shopping for groceries", "finding convenient products", "browsing store promotions", "using self-checkout services"], "content_original": "超市便利"}
+{"category": "Western fast food", "action": ["eating at a Western fast food restaurant", "ordering a burger or fries", "trying international flavors", "experiencing quick service dining"], "content_original": "西式快餐"}
+{"category": "Museum of Cultural Arts", "action": ["visiting the museum", "attending cultural events", "viewing art exhibits", "participating in educational programs"], "content_original": "文化艺术馆"}
+{"category": "Archery Pavilion", "action": ["practicing archery", "watching archery competitions", "visiting the pavilion for cultural experience"], "content_original": "射箭馆"}
+{"category": "Clothing, Shoes, Boots", "action": ["wearing clothing", "selecting shoes", "choosing boots"], "content_original": "服饰鞋靴"}
+{"category": "Other health care and wellness practices", "action": ["practicing yoga or meditation", "getting a massage", "trying acupuncture", "visiting a spa"], "content_original": "其他养生保健"}
+{"category": "wedding planning company", "action": ["coordinating wedding events and logistics", "consulting with couples on wedding themes and ideas", "managing vendor relationships and bookings", "assisting with wedding day coordination and timing", "providing guidance on wedding etiquette and traditions"], "content_original": "婚庆公司"}
+{"category": "beauty spa", "action": ["receiving a massage", "getting a facial treatment", "relaxing in the sauna", "enjoying other spa services"], "content_original": "美容SPA"}
+{"category": "elementary school", "action": ["attending classes", "participating in extracurricular activities", "learning new subjects", "interacting with teachers and peers"], "content_original": "小学"}
+{"category": "French cuisine", "action": ["cooking French dishes", "learning about French culinary history", "enjoying a French meal at a restaurant", "taking a cooking class to learn how to prepare French food"], "content_original": "法国菜"}
+{"category": "exhibition center", "action": ["organizing and hosting exhibitions", "displaying products or artworks", "conducting conferences and seminars", "providing educational workshops"], "content_original": "会展中心"}
+{"category": "life payment", "action": ["managing finances", "paying bills", "transferring money", "tracking expenses"], "content_original": "生活缴费"}
+{"category": "small appliances", "action": ["using a coffee maker", "operating a toaster oven", "cleaning a blender", "assembling a bookshelf"], "content_original": "小家电"}
+{"category": "women's shoes", "action": ["trying on different styles", "browsing various brands", "learning about shoe care tips", "making a purchase"], "content_original": "女鞋"}
+{"category": "medical equipment", "action": ["designing medical devices", "manufacturing medical tools", "testing and quality control", "distributing to healthcare facilities"], "content_original": "医疗器械"}
+{"category": "Other forms of exercise", "action": ["practicing yoga", "going for a run", "swimming laps", "dancing as a workout"], "content_original": "其他运动健身"}
+{"category": "Escape Room", "action": ["solving puzzles", "escaping the room", "experiencing thrill and adventure", "challenging problem-solving skills"], "content_original": "密室逃脱"}
+{"category": "beach shore", "action": ["swimming", "sunbathing", "building sandcastles", "enjoying water sports"], "content_original": "海滨沙滩"}
+{"category": "specialty hospital", "action": ["providing specialized medical care", "conducting medical research", "offering advanced treatment options", "training medical professionals"], "content_original": "专科医院"}
+{"category": "Temple Church", "action": ["visiting the historic site", "learning about its historical significance", "admiring the architecture", "attending a religious service", "participating in a guided tour"], "content_original": "寺庙教堂"}
+{"category": "leisure entertainment", "action": ["watching movies", "playing games", "attending concerts", "participating in sports activities"], "content_original": "休闲娱乐"}
+{"category": "Motorcycle & Electric & Bicycle Repair", "action": ["repairing motorcycles", "fixing electric bicycles", "maintaining regular bicycle check-ups", "providing parts for various cycles"], "content_original": "摩托&电动&自行车维修"}
+{"category": "other exhibition halls exhibitions", "action": ["visiting the exhibitions", "learning about new technologies", "admiring art pieces", "participating in interactive displays"], "content_original": "其他展馆展览"}
+{"category": "4S store", "action": ["buying car parts and accessories", "choosing suitable vehicle components", "getting professional advice on car maintenance", "experiencing a wide range of automotive products"], "content_original": "4S店"}
+{"category": "Ear Gallery", "action": ["visiting the gallery", "viewing art exhibitions", "attending artist talks and workshops", "purchasing artwork"], "content_original": "采耳馆"}
+{"category": "other transportation facilities", "action": ["providing alternative modes of transport", "facilitating travel between destinations", "offering convenient routes and schedules"], "content_original": "其他交通设施"}
+{"category": "sports", "action": ["watching ball games", "participating in sports activities", "attending sports events"], "content_original": "球类运动"}
+{"category": "dormitory", "action": ["living in the dormitory", "studying with others", "participating in dorm events", "managing dorm facilities"], "content_original": "宿舍"}
+{"category": "Italian cuisine", "action": ["cooking Italian dishes", "eating at an Italian restaurant", "learning about Italian culinary history", "preparing a traditional Italian meal"], "content_original": "意大利菜"}
+{"category": "road rescue", "action": ["rescuing stranded drivers", "assisting in car breakdowns", "providing traffic updates", "helping with emergency situations"], "content_original": "道路救援"}
+{"category": "popular trend", "action": ["following the latest fashion trends", "participating in social media discussions", "attending popular events and concerts"], "content_original": "大众潮流"}
+{"category": "business services", "action": ["offering consulting services", "providing marketing solutions", "delivering IT support", "arranging corporate events"], "content_original": "商务服务"}
+{"category": "eye hospital", "action": ["performing eye surgeries", "conducting eye exams", "prescribing glasses or contact lenses", "offering eye health consultations"], "content_original": "眼科医院"}
+{"category": "other foreign restaurants", "action": ["trying different international cuisines", "experiencing unique dining atmospheres", "meeting people from diverse backgrounds", "discovering new flavors and ingredients"], "content_original": "其他外国餐厅"}
+{"category": "intermediary institution", "action": ["facilitating transactions between parties", "managing supply chains", "providing consulting services", "assisting in negotiations"], "content_original": "中介机构"}
+{"category": "high-fashion clothing", "action": ["designing high-fashion garments", "modeling high-fashion clothing", "buying and selling high-fashion items", "wearing high-fashion clothing for special occasions"], "content_original": "高级时装"}
+{"category": "coffee", "action": ["drinking a cup of coffee", "visiting a coffee shop", "buying coffee beans", "learning about coffee production"], "content_original": "咖啡"}
+{"category": "dessert shop", "action": ["browsing dessert menus", "sampling desserts", "ordering custom desserts", "attending baking classes"], "content_original": "甜品店"}
+{"category": "jiangxi cuisine", "action": ["trying local specialties", "visiting food markets", "learning cooking techniques", "sharing culinary experiences"], "content_original": "江西菜"}
+{"category": "ktv", "action": ["singing karaoke songs", "watching music videos on TV", "socializing with friends in a ktv room", "enjoying snacks and drinks while singing"], "content_original": "KTV"}
+{"category": "pediatric massage", "action": ["performing massage on children", "relaxing kids with gentle strokes", "improving blood circulation for young ones", "teaching parents simple massage techniques"], "content_original": "小儿推拿"}
+{"category": "plastic surgery hospital", "action": ["performing plastic surgeries", "providing consultation services", "rehabilitating patients after surgery", "conducting research on new surgical techniques"], "content_original": "整形医院"}
+{"category": "vehicle service", "action": ["performing routine maintenance", "diagnosing issues with vehicles", "providing repair services", "offering vehicle inspections"], "content_original": "车辆服务"}
+{"category": "kindergarten/daycare center", "action": ["providing education and care to young children", "ensuring a safe environment for learning and growth", "offering various activities for cognitive development", "supporting parents with childcare services"], "content_original": "托班/托儿所"}
+{"category": "other ball games", "action": ["playing basketball", "watching a soccer match", "participating in tennis tournaments", "enjoying volleyball competitions"], "content_original": "其他球类运动"}
+{"category": "other living services", "action": ["receiving medical care", "purchasing groceries", "participating in educational programs", "attending social events"], "content_original": "其他生活服务"}
+{"category": "other martial arts combat sports", "action": ["training in various martial arts styles", "participating in tournaments and competitions", "improving physical fitness and mental focus", "learning self-defense techniques"], "content_original": "其他武术格斗"}
+{"category": "Other family services", "action": ["planning family activities", "spending quality time together", "organizing family events", "providing emotional support"], "content_original": "其他亲子服务"}
+{"category": "driving school", "action": ["learning how to drive", "getting driving lessons", "practicing driving skills", "obtaining a driver's license"], "content_original": "驾校"}
+{"category": "other recreational sports", "action": ["participating in extreme sports", "playing team sports", "practicing individual sports", "watching sports events"], "content_original": "其他休闲运动"}
+{"category": "Thoracic Hospital", "action": ["providing medical services for thoracic patients", "performing surgeries related to the thorax", "conducting research on thoracic diseases", "offering patient education and support"], "content_original": "胸科医院"}
+{"category": "bath and shower", "action": ["taking a bath", "showering", "using steam facilities"], "content_original": "洗浴汗蒸"}
+{"category": "inn/hostel", "action": ["staying at the inn/hostel", "dining at the inn/hostel", "meeting other travelers", "receiving information about local attractions"], "content_original": "旅馆招待所"}
+{"category": "Children's haircuts", "action": ["getting a haircut for their child", "choosing a hairstyle for their child", "ensuring the haircut is suitable for their child's age and personality", "discussing grooming habits with their child after the haircut"], "content_original": "儿童理发"}
+{"category": "city sightseeing", "action": ["visiting famous landmarks", "exploring local culture", "taking public transportation", "attending cultural events"], "content_original": "城市观光"}
+{"category": "resort village", "action": ["relaxing in the resort", "participating in outdoor activities", "enjoying water sports", "visiting nearby attractions"], "content_original": "度假村"}
+{"category": "Fragrance Essential Oil", "action": ["using essential oils for aromatherapy", "incorporating essential oils into skincare routines", "experimenting with different scents and blends", "learning about the benefits of various essential oils"], "content_original": "香氛精油"}
+{"category": "playful activities", "action": ["engaging in sports", "participating in games", "watching performances", "creating art"], "content_original": "玩乐活动"}
+{"category": "museum", "action": ["visiting exhibits", "attending lectures or workshops", "participating in guided tours", "engaging with interactive displays"], "content_original": "博物馆"}
+{"content_original": "酒店"}
+{"category": "homegrown vegetables", "action": ["growing and harvesting vegetables", "cooking homegrown vegetable dishes", "preserving homegrown vegetables for later use", "sharing recipes using homegrown vegetables"], "content_original": "农家菜"}
+{"category": "health supplements", "action": ["taking health supplements daily", "choosing the right type of supplement", "consulting with a healthcare professional", "manufacturing and distributing health supplements"], "content_original": "药店保健品"}
+{"category": "toll station", "action": ["paying toll fees", "monitoring traffic flow", "ensuring public safety", "collecting and managing data for infrastructure planning"], "content_original": "收费站"}
+{"category": "prenatal and postnatal care", "action": ["attending prenatal check-ups", "planning the baby's nursery", "taking a childbirth education class", "bonding with the newborn", "returning to work after maternity leave"], "content_original": "孕产护理"}
+{"category": "water sports", "action": ["participating in water activities", "renting equipment for water sports", "learning new water sport techniques", "enjoying beach activities related to water sports"], "content_original": "水上娱乐"}
+{"category": "securities investment", "action": ["analyzing market trends", "evaluating investment options", "managing investment portfolios", "conducting financial research"], "content_original": "证券投资"}
+{"category": "Comprehensive Hospital", "action": ["providing medical services", "conducting medical research", "offering health education", "coordinating emergency response", "treating patients with various illnesses"], "content_original": "综合医院"}
+{"category": "parent-child amusement", "action": ["playing games together", "watching children's performances", "enjoying family-friendly shows", "participating in interactive activities"], "content_original": "亲子游乐"}
+{"category": "lighter", "action": ["using a lighter to ignite fire", "smoking a cigarette or cigar", "enjoying BBQ activities", "preparing candles for relaxation"], "content_original": "打火机"}
+{"category": "beef steak", "action": ["cooking beef steak", "ordering beef steak at a restaurant", "preparing ingredients for beef steak", "serving beef steak as a main course"], "content_original": "牛排"}
+{"category": "zoo", "action": ["visiting animal exhibits", "watching animal feedings and shows", "learning about wildlife conservation", "interacting with zoo staff"], "content_original": "动物园"}
+{"category": "public facilities", "action": ["using public transportation", "visiting public parks", "attending community events", "utilizing public libraries"], "content_original": "公共设施"}
+{"category": "other vehicle services", "action": ["providing maintenance and repair services", "offering roadside assistance", "selling vehicle accessories", "transporting vehicles for storage or delivery"], "content_original": "其他车辆服务"}
+{"category": "gym or martial arts school", "action": ["exercising at the gym", "practicing martial arts", "getting fitness training", "teaching martial arts classes"], "content_original": "拳馆"}
+{"category": "Moving Delivery", "action": ["coordinating moving logistics", "packing belongings", "loading and unloading items", "transporting goods to the new location"], "content_original": "搬家配送"}
+{"category": "photo printing", "action": ["printing photos", "developing film", "scanning photographs"], "content_original": "图文快印"}
+{"category": "swimming training", "action": ["practicing swimming strokes", "improving endurance", "enhancing technique", "increasing speed and agility"], "content_original": "游泳培训"}
+{"category": "other cultural landscapes", "action": ["visiting historical sites", "exploring museums", "attending cultural festivals", "learning about local traditions"], "content_original": "其他人文景观"}
+{"category": "Adult education", "action": ["attending classes or workshops", "participating in online courses", "pursuing higher education or certifications", "sharing knowledge with others"], "content_original": "成人教育"}
+{"category": "concert hall", "action": ["attending a concert", "listening to live music performances", "enjoying the acoustics of the hall", "experiencing cultural events"], "content_original": "音乐厅"}
+{"category": "convenience store", "action": ["buying daily necessities", "purchasing snacks and drinks", "using self-service kiosks", "asking for assistance from staff"], "content_original": "便利店"}
+{"category": "men's shoes", "action": ["trying on different styles", "choosing the right size", "considering comfort features", "selecting a suitable material"], "content_original": "男鞋"}
+{"category": "jewelry accessories", "action": ["wearing jewelry", "accessorizing outfits", "gifting jewelry to others", "designing and creating jewelry pieces"], "content_original": "珠宝饰品"}
+{"category": "Electronic market", "action": ["browsing electronic products", "comparing prices and features", "negotiating with vendors", "making purchases", "testing out devices", "seeking advice from sales staff"], "content_original": "电子市场"}
+{"category": "Comprehensive Early Childhood Education", "action": ["planning educational activities", "teaching children important skills", "creating a nurturing environment", "communicating with parents about their child's progress"], "content_original": "综合早教"}
+{"category": "more food", "action": ["cooking more food", "ordering additional dishes", "trying new recipes", "hosting a food gathering"], "content_original": "更多美食"}
+{"category": "buffet", "action": ["enjoying a variety of food options", "eating to one's full capacity", "socializing with other diners", "having multiple servings"], "content_original": "自助餐"}
+{"category": "industrial area", "action": ["conducting business operations", "manufacturing products", "transporting goods", "developing infrastructure"], "content_original": "工业区"}
+{"category": "photography printing", "action": ["developing photographs", "printing digital images", "scanning physical photos", "editing pictures on computer"], "content_original": "摄影冲印"}
+{"category": "Other convenience services", "action": ["providing package delivery", "offering laundry facilities", "renting equipment or tools", "assisting with travel arrangements"], "content_original": "其他便民服务"}
+{"category": "train station", "action": ["boarding the train", "purchasing tickets", "waiting for trains", "directing passengers to their platforms"], "content_original": "列车站"}
+{"category": "Other beauty SPA", "action": ["receiving spa treatments", "relaxing in the spa environment", "enjoying spa facilities", "pampering oneself with spa services"], "content_original": "其他美容SPA"}
+{"category": "other financial", "action": ["managing investments", "planning for retirement", "budgeting and saving", "purchasing insurance"], "content_original": "其他金融"}
+{"category": "Landmarks and historical sites", "action": ["visiting famous monuments", "exploring historical museums", "attending cultural events", "learning about local history"], "content_original": "名胜古迹"}
+{"category": "drink shop", "action": ["buying drinks", "socializing with friends", "enjoying a drink", "working at the drink shop"], "content_original": "饮品店"}
+{"category": "grilled meat", "action": ["cooking grilled meat", "serving grilled meat dishes", "preparing marinades for grilled meat", "barbecuing meat over an open flame"], "content_original": "烧烤烤肉"}
+{"category": "music training", "action": ["practicing musical instruments", "learning music theory", "attending concerts and performances", "collaborating with other musicians"], "content_original": "音乐培训"}
+{"category": "middle school", "action": ["attending classes", "participating in extracurricular activities", "collaborating with classmates on projects", "receiving guidance from teachers"], "content_original": "中学"}
+{"category": "other small snacks fast food", "action": ["buying other small snacks", "eating at a fast food restaurant", "trying new flavors", "consuming on the go"], "content_original": "其他小吃快餐"}
+{"category": "car maintenance", "action": ["performing routine checks", "changing oil and filters", "replacing worn-out parts", "ensuring proper tire pressure"], "content_original": "汽车维修"}
+{"category": "other luxury goods", "action": ["purchasing high-end fashion items", "investing in rare collectibles", "enjoying exclusive experiences", "showcasing opulent accessories"], "content_original": "其他奢侈品"}
+{"category": "office", "action": ["working at the office", "attending meetings", "using office equipment", "collaborating with colleagues"], "content_original": "办公"}
+{"category": "digital products", "action": ["developing software applications", "designing video games", "creating digital art and graphics", "producing music and audio content"], "content_original": "数码产品"}
+{"category": "Psychological counseling institution", "action": ["offering therapy sessions", "providing support groups", "conducting workshops and seminars", "referring clients to other specialists when needed", "maintaining client confidentiality"], "content_original": "心理咨询机构"}
+{"category": "Women's and Children's Hospital", "action": ["providing medical services to women and children", "performing surgeries", "conducting check-ups and diagnoses", "offering prenatal care", "running health education programs for families"], "content_original": "妇幼医院"}
+{"category": "Children's clothing", "action": ["designing children's clothing", "producing children's clothing", "marketing children's clothing", "selling children's clothing", "wearing children's clothing", "growing demand for children's clothing"], "content_original": "童装"}
+{"category": "mother and baby products", "action": ["purchasing baby clothing", "selecting nursery furniture", "researching strollers and car seats", "reading baby product reviews", "attending parenting workshops"], "content_original": "母婴用品"}
+{"category": "Parent-child restaurant", "action": ["dining as a family", "enjoying kid-friendly menu options", "experiencing children's play areas", "receiving parental services and amenities"], "content_original": "亲子餐厅"}
+{"category": "specialty store", "action": ["browsing unique products", "making a purchase", "asking for recommendations", "learning about the store's specialty"], "content_original": "专卖店"}
+{"category": "Government Service Center", "action": ["applying for government services", "receiving assistance from staff", "submitting documents", "paying fees"], "content_original": "政务服务中心"}
+{"category": "shared office space", "action": ["collaborating with colleagues", "participating in networking events", "utilizing shared resources and facilities", "innovating and brainstorming ideas"], "content_original": "联合办公空间"}
+{"category": "table tennis hall", "action": ["playing table tennis", "watching table tennis matches", "practicing serves and spins", "socializing with other players"], "content_original": "乒乓球馆"}
+{"category": "professional training", "action": ["attending seminars and workshops", "participating in online courses", "networking with colleagues", "pursuing certifications or degrees"], "content_original": "职业培训"}
+{"category": "theatre", "action": ["watching a play or musical performance", "attending a theatrical event", "visiting the backstage area", "learning about theatre history and techniques"], "content_original": "剧院"}
+{"category": "Hunan cuisine", "action": ["preparing Hunan vegetables dishes", "cooking with chili peppers and garlic", "savoring spicy flavors", "exploring regional specialties"], "content_original": "湘菜"}
+{"category": "Guangxi cuisine", "action": ["savoring local dishes", "trying traditional recipes", "visiting food markets", "learning cooking techniques"], "content_original": "广西菜"}
+{"category": "Second-hand goods market", "action": ["browsing through stalls", "negotiating prices with vendors", "purchasing second-hand items", "selling own used goods", "socializing with other shoppers"], "content_original": "二手旧货市场"}
+{"category": "script killing", "action": ["writing a script", "directing the actors", "filming the scenes", "editing the footage"], "content_original": "剧本杀"}
+{"category": "chess room", "action": ["playing chess", "strategizing moves", "analyzing games", "improving chess skills"], "content_original": "棋牌室"}
+{"category": "car rental", "action": ["renting a car", "choosing the right vehicle type", "picking up and dropping off cars", "getting assistance with navigation"], "content_original": "汽车租赁"}
+{"category": "Teaching Building", "action": ["conducting lectures", "attending classes", "participating in seminars", "using the library resources"], "content_original": "教学楼"}
+{"category": "natural landscape", "action": ["hiking", "camping", "photographing the scenery", "studying local flora and fauna"], "content_original": "自然景观"}
+{"category": "other vehicles", "action": ["driving the vehicle", "riding in the vehicle", "maintaining and repairing the vehicle", "transporting goods or passengers with the vehicle"], "content_original": "其他车辆"}
+{"category": "Small Commodities Market", "action": ["browsing market stalls", "negotiating prices", "purchasing goods", "socializing with vendors and other shoppers"], "content_original": "小商品市场"}
+{"category": "pet supplies", "action": ["buying pet food", "selecting toys for pets", "choosing comfortable bedding for pets", "finding suitable grooming tools"], "content_original": "宠物用品"}
+{"category": "residential area", "action": ["living in the residential area", "commuting to work", "spending time with family and friends", "participating in local community events"], "content_original": "住宅小区"}
+{"category": "lawyer services", "action": ["drafting legal documents", "representing clients in court", "advising on legal matters", "negotiating contracts"], "content_original": "律师服务"}
+{"category": "animal medical", "action": ["vaccinating animals", "examining pets", "prescribing medication for animals", "performing surgery on animals"], "content_original": "动物医疗"}
+{"category": "sales center", "action": ["demonstrating products", "negotiating deals", "providing customer support", "managing inventory"], "content_original": "售楼中心"}
+{"category": "Virtual Reality", "action": ["immersing in virtual environments", "interacting with virtual objects", "experiencing simulations", "designing and developing VR content"], "content_original": "VR"}
+{"category": "jiang zhe cuisine", "action": ["trying jiang zhe dishes", "visiting local markets for food", "learning about traditional cooking methods", "attending a cooking class"], "content_original": "江浙菜"}
+{"category": "Chinese restaurant", "action": ["dining at the Chinese restaurant", "ordering Chinese cuisine", "experiencing Chinese culture through food", "enjoying a meal with family and friends"], "content_original": "中餐厅"}
+{"category": "Hubei cuisine", "action": ["trying local specialties", "visiting food markets", "learning cooking techniques", "sharing culinary experiences"], "content_original": "湖北菜"}
+{"category": "Talent Market", "action": ["recruiting skilled professionals", "showcasing local artisans", "networking with industry experts", "discovering new talents"], "content_original": "人才市场"}
+{"category": "Quzhou cuisine", "action": ["trying local dishes", "visiting food markets", "learning cooking techniques", "sharing culinary experiences"], "content_original": "衢州菜"}
+{"category": "Electronic waste recycling", "action": ["collecting electronic waste", "processing and disassembling devices", "extracting reusable materials", "proper disposal of hazardous components"], "content_original": "数码家电回收"}
+{"category": "bread pastries", "action": ["baking bread pastries", "displaying bread pastries for sale", "packaging bread pastries for customers", "promoting different types of bread pastries"], "content_original": "面包糕点"}
+{"category": "neurological hospital", "action": ["providing medical treatment for neurological disorders", "conducting neurological research", "offering physical therapy and rehabilitation services", "educating patients and families about neurological health"], "content_original": "脑科医院"}
+{"category": "Third-grade A-level hospital", "action": ["providing medical services to patients", "conducting routine check-ups", "performing surgeries", "offering health consultations", "managing patient records"], "content_original": "三级甲等医院"}
+{"category": "second-tier dealer", "action": ["negotiating with clients", "managing inventory", "providing market analysis", "building relationships with suppliers"], "content_original": "二级经销商"}
+{"category": "Youth Hostel", "action": ["staying at the hostel", "meeting other travelers", "participating in group activities", "receiving travel advice"], "content_original": "青年旅舍"}
+{"category": "children's playground", "action": ["playing on the slides and swings", "climbing on the jungle gym", "spending time with family and friends", "supervising children during play"], "content_original": "儿童乐园"}
+{"category": "community center", "action": ["organizing community events", "offering classes and workshops", "providing meeting spaces for groups", "facilitating social activities for members"], "content_original": "社区中心"}
+{"category": "Vehicle Management Institution", "action": ["managing vehicle registration", "issuing driver's licenses", "conducting vehicle inspections", "enforcing traffic laws and regulations"], "content_original": "车辆管理机构"}
+{"category": "nourishment and health preservation", "action": ["eating healthy food", "exercising regularly", "getting enough sleep", "practicing stress reduction techniques"], "content_original": "养生保健"}
+{"category": "theme park", "action": ["riding thrilling rides", "watching spectacular shows", "enjoying themed attractions", "experiencing immersive environments"], "content_original": "主题乐园"}
+{"category": "Children's programming", "action": ["watching cartoons", "learning through educational shows", "participating in interactive content", "enjoying live-action programs for kids"], "content_original": "少儿编程"}
+{"category": "Other cultural education", "action": ["attending workshops or classes", "participating in cultural events", "visiting museums or art galleries", "learning about local customs and traditions"], "content_original": "其他文化教育"}
+{"category": "electronics", "action": ["browsing electronics stores", "comparing different electronic devices", "attending electronics trade shows", "learning about the latest electronic trends"], "content_original": "数码家电"}
+{"category": "Wedding Joy Gifts", "action": ["purchasing gifts for the wedding couple", "attending the wedding ceremony", "celebrating the joyous occasion with others"], "content_original": "婚礼喜品"}
+{"category": "home underwear", "action": ["wearing home underwear", "choosing comfortable home underwear", "selecting appropriate home underwear for different occasions", "caring and maintaining home underwear"], "content_original": "居家内衣"}
+{"category": "artistic training/talent education", "action": ["learning musical instruments", "mastering dance techniques", "developing artistic skills", "participating in workshops"], "content_original": "才艺培训"}
+{"category": "Everyone's electrical appliances", "action": ["using electrical appliances for daily tasks", "purchasing new electrical appliances", "repairing or maintaining electrical appliances", "recycling old electrical appliances"], "content_original": "大家电"}
+{"category": "cultural goods", "action": ["collecting cultural items", "preserving cultural heritage", "displaying cultural artifacts", "promoting cultural exchange"], "content_original": "文化用品"}
+{"category": "human landscape", "action": ["interacting with people", "understanding cultural differences", "participating in community events", "documenting human experiences through art or writing"], "content_original": "人文景观"}
+{"category": "sand pot", "action": ["digging for sand", "carrying the sand pot", "cooking with sand pot", "selling sand pots"], "content_original": "砂锅"}
+{"category": "Public Relations Planning/Online Marketing", "action": ["developing PR strategies", "creating engaging content", "managing online presence", "building brand awareness", "collaborating with influencers", "monitoring and analyzing results"], "content_original": "公关策划/网络营销"}
+{"category": "community service", "action": ["volunteering time", "donating resources", "participating in local events", "raising awareness for social causes"], "content_original": "社区服务"}
+{"category": "Other parent-child shopping", "action": ["spending quality time together", "selecting gifts for each other", "enjoying a meal as a family", "browsing various stores and kiosks"], "content_original": "其他亲子购物"}
+{"category": "Pawnshop & Auction House", "action": ["lending money against goods", "auctioning off items", "buying and selling second-hand goods"], "content_original": "典当&拍卖行"}
+{"category": "other training education", "action": ["participating in workshops", "attending lectures", "conducting research", "collaborating with peers"], "content_original": "其他培训教育"}
+{"category": "social organization", "action": ["organizing community events", "providing support services to members", "collaborating with other organizations", "advocating for social causes"], "content_original": "社会团体"}
+{"category": "bus station", "action": ["boarding the bus", "purchasing tickets", "transferring between buses", "waiting for the bus to arrive"], "content_original": "公交车站"}
+{"category": "eye glass shop", "action": ["browsing eye glasses", "trying on frames", "consulting with opticians", "purchasing eye wear"], "content_original": "眼镜店"}
+{"category": "household laundry", "action": ["washing clothes", "drying clothes", "ironing clothes", "folding and putting away clothes"], "content_original": "家政洗涤"}
+{"category": "postpartum recovery center", "action": ["receiving medical care during postpartum period", "attending support groups", "engaging in physical therapy activities", "getting emotional support from staff and other mothers"], "content_original": "月子会所"}
+{"category": "post office express", "action": ["sending packages", "mailing letters", "tracking shipments", "purchasing postage"], "content_original": "邮局快递"}
+{"category": "clock repair", "action": ["disassembling the clock for inspection", "replacing damaged parts", "cleaning and lubricating mechanisms", "testing the clock's accuracy"], "content_original": "钟表维修"}
+{"category": "billiard hall", "action": ["playing billiards", "socializing with friends", "watching others play", "enjoying a casual atmosphere"], "content_original": "台球馆"}
+{"category": "life services", "action": ["providing healthcare services", "offering education and training", "offering financial planning and investment advice", "offering personal coaching and consulting"], "content_original": "生活服务"}
+{"category": "Shanxi cuisine", "action": ["trying authentic Shanxi dishes", "visiting local restaurants", "learning about cooking techniques", "discovering unique ingredients"], "content_original": "山西菜"}
+{"category": "cosmetics", "action": ["applying cosmetics for special occasions", "trying out new makeup trends", "purchasing skincare products", "learning about different types of cosmetics"], "content_original": "化妆品"}
+{"category": "Picking & Farmer's Amusement", "action": ["picking fruits and vegetables", "experiencing rural life", "enjoying farm-based entertainment"], "content_original": "采摘&农家乐"}
+{"category": "Cultural Education", "action": ["attending cultural events", "visiting museums and art galleries", "participating in workshops and classes", "learning about history and heritage"], "content_original": "文化教育"}
+{"category": "other hotels and inns", "action": ["staying at other hotels and inns", "dining at other hotels and inns", "enjoying entertainment activities", "providing services to guests"], "content_original": "其他酒店宾馆"}
+{"category": "Japanese fast food", "action": ["eating at a Japanese restaurant", "ordering sushi", "trying ramen noodles", "drinking green tea"], "content_original": "日式快餐"}
+{"category": "passenger port", "action": ["boarding a ship", "checking in for a flight", "dropping off or picking up luggage", "experiencing customs and immigration procedures"], "content_original": "客运港"}
+{"category": "Shaanxi cuisine", "action": ["savoring local dishes", "drinking Maotai", "visiting traditional restaurants", "learning cooking techniques"], "content_original": "陕西菜"}
+{"category": "office supplies", "action": ["purchasing office materials", "organizing workspace", "using office equipment", "storing and managing documents"], "content_original": "办公文具"}
+{"category": "selected gifts", "action": ["choosing the perfect gift", "wrapping the gift nicely", "presenting the gift with thoughtfulness", "receiving appreciation for the gift"], "content_original": "精选礼品"}
+{"category": "home furnishings", "action": ["choosing furniture for the home", "selecting textiles and fabrics", "decorating living spaces", "organizing storage solutions"], "content_original": "家居家纺"}
+{"category": "Botanical Garden", "action": ["visiting the gardens", "learning about plants", "having a picnic", "attending events"], "content_original": "植物园"}
+{"category": "luxury item care", "action": ["cleaning and polishing the luxury items", "storing them in a safe place", "inspecting for damage or wear", "repairing or replacing damaged parts", "maintaining their value over time"], "content_original": "奢侈品护理"}
+{"category": "planting", "action": ["digging holes for flowers", "placing flower bulbs or seeds", "watering the soil", "caring for the growing flowers"], "content_original": "植物花卉"}
+{"category": "hairdressing", "action": ["getting a haircut", "styling hair", "applying hair treatments", "learning hairdressing techniques"], "content_original": "美发"}
+{"category": "airport", "action": ["boarding and deplaning flights", "checking in luggage", "going through security checks", "transferring between terminals", "meeting arriving/departing passengers", "providing airport services to travelers"], "content_original": "机场"}
+{"category": "other specialty foods", "action": ["trying new recipes", "cooking techniques", "visiting local markets", "learning about food origins"], "content_original": "其他特色美食"}
+{"category": "creative dishes", "action": ["preparing unique recipes", "presenting artistic food arrangements", "serving at special events", "sharing culinary techniques"], "content_original": "创意菜"}
+{"category": "Special classification", "action": ["identifying special items", "organizing special events", "providing specialized services"], "content_original": "特殊分类"}
+{"category": "Home Building Materials", "action": ["selecting materials for construction", "comparing prices of different materials", "consulting with experts on material choice", "transporting building materials to the site"], "content_original": "家居建材"}
+{"category": "Northwestern cuisine", "action": ["trying traditional Northwestern dishes", "visiting local farmers' markets", "learning about the region's culinary history", "cooking classes focused on Northwestern specialties"], "content_original": "西北菜"}
+{"category": "Japanese cuisine", "action": ["cooking Japanese dishes", "trying different types of sushi", "learning about traditional Japanese cooking methods", "visiting Japanese restaurants"], "content_original": "日本菜"}
+{"category": "funeral services", "action": ["planning the funeral", "conducting the funeral ceremony", "providing emotional support to the bereaved", "coordinating with other service providers", "handling administrative tasks"], "content_original": "丧葬服务"}
+{"category": "tailor", "action": ["altering clothes", "sewing garments", "fitting customers for clothing", "providing fashion advice"], "content_original": "裁缝改衣"}
+{"category": "car club & car owner's association", "action": ["organizing car-related events", "providing resources for car enthusiasts", "facilitating car-related discussions and networking", "offering exclusive benefits to members", "promoting safe driving practices"], "content_original": "汽车俱乐部&车友会"}
+{"category": "game hall", "action": ["playing video games", "enjoying arcade games", "socializing with friends", "participating in tournaments"], "content_original": "游戏厅"}
+{"category": "real estate", "action": ["buying a property", "selling a property", "renting out properties", "investing in real estate market"], "content_original": "房屋地产"}
+{"category": "oral hospital", "action": ["providing dental services", "conducting oral surgery", "offering cosmetic dentistry", "performing routine check-ups"], "content_original": "口腔医院"}
+{"category": "university", "action": ["attending classes", "participating in research projects", "joining student organizations", "collaborating with professors"], "content_original": "大学"}
+{"category": "Shandong cuisine", "action": ["cooking Shandong dishes", "trying different flavors of Shandong cuisine", "learning about the history and ingredients of Shandong food", "sharing experiences with others about Shandong cuisine"], "content_original": "山东菜"}
+{"category": "Comprehensive Market", "action": ["browsing market stalls", "negotiating prices", "purchasing goods", "sampling local cuisine"], "content_original": "综合市场"}
+{"category": "Other recreational activities", "action": ["participating in team sports", "engaging in solo hobbies", "visiting art galleries", "attending concerts and performances"], "content_original": "其他玩乐活动"}
+{"category": "cooking", "action": ["filling the pot with water", "placing the pot on heat source", "waiting for water to boil", "carefully pouring hot water into another container"], "content_original": "焖锅"}
+{"category": "sports stadium", "action": ["watching sports events", "attending concerts and performances", "exercising or playing sports", "visiting the stadium's museum or hall of fame"], "content_original": "体育场馆"}
+{"category": "Chinese Medicine Clinic", "action": ["receiving treatment from a practitioner", "learning about traditional Chinese medicine", "purchasing herbal supplements", "experiencing acupuncture"], "content_original": "中医馆"}
+{"category": "lottery tickets", "action": ["buying lottery tickets", "checking lottery results", "celebrating a win", "feeling hopeful for a win"], "content_original": "彩票彩券"}
+{"category": "service area", "action": ["refueling at the service station", "using restrooms and restaurants", "getting assistance from staff", "purchasing snacks and souvenirs"], "content_original": "服务区"}
+{"category": "Internet cafe", "action": ["surfing the internet", "playing online games", "video chatting with friends and family", "working remotely"], "content_original": "网吧"}
+{"category": "dance", "action": ["performing a dance routine", "watching a dance performance", "learning different dance styles", "attending a dance festival"], "content_original": "舞蹈"}
+{"category": "headphones", "action": ["listening to music", "watching videos", "attending online meetings", "playing video games"], "content_original": "耳机音响"}
+{"category": "other clothing shoes boots", "action": ["wearing different types of clothing", "choosing the right shoes for an occasion", "selecting appropriate footwear like boots"], "content_original": "其他服饰鞋靴"}
+{"category": "badminton hall", "action": ["playing badminton", "renting equipment", "attending a tournament", "watching a match"], "content_original": "羽毛球馆"}
+{"category": "Automotive parts", "action": ["purchasing automotive components", "installing car accessories", "repairing vehicles with replacement parts", "selling auto spare parts"], "content_original": "汽车配件"}
+{"category": "foreign restaurant", "action": ["dining at the foreign restaurant", "trying new cuisine", "enjoying cultural atmosphere", "ordering exotic dishes"], "content_original": "外国餐厅"}
+{"category": "cinema", "action": ["watching a movie", "enjoying the cinema experience", "buying tickets for a film", "socializing at the cinema"], "content_original": "电影院"}
+{"category": "martial arts", "action": ["practicing martial arts techniques", "watching a martial arts performance", "learning about the history of martial arts", "participating in a martial arts competition"], "content_original": "武术"}
+{"category": "nail art", "action": ["designing nails", "applying nail polish", "creating intricate nail patterns", "enhancing natural nail beauty"], "content_original": "美甲"}
+{"category": "study abroad", "action": ["attending classes in a foreign country", "immersing in the local culture", "making international friends", "developing language skills"], "content_original": "留学"}
+{"category": "mexican cuisine", "action": ["savoring traditional dishes", "drinking margaritas", "celebrating with fiestas", "learning cooking techniques"], "content_original": "墨西哥菜"}
+{"category": "Fujian cuisine", "action": ["savoring the flavors of Fujian dishes", "learning about traditional cooking techniques", "discovering local ingredients and spices", "enjoying a meal at a Fujian restaurant"], "content_original": "福建菜"}
+{"category": "apartment", "action": ["living in the apartment", "cooking meals", "organizing home decor", "entertaining guests"], "content_original": "公寓"}
+{"category": "business leisure", "action": ["conducting business meetings", "networking with colleagues and clients", "taking a break for relaxation or entertainment"], "content_original": "商务休闲"}
+{"category": "Medical Examination Institution", "action": ["conducting medical check-ups", "providing health test results", "offering preventive healthcare services", "referring patients to specialists"], "content_original": "体检机构"}
+{"category": "charging station", "action": ["recharging electronic devices", "finding a charging station location", "using different types of charging technologies"], "content_original": "充电站"}
+{"category": "comprehensive clothing", "action": ["designing and creating overall attire", "selecting fabrics for comprehensive clothing", "marketing and selling overall attire designs"], "content_original": "综合服饰"}
+{"category": "ticket sales point", "action": ["selling tickets to events or attractions", "providing information about available tickets", "handling ticket purchases and payments", "offering discounts or promotions for certain types of tickets"], "content_original": "车票代售点"}
+{"category": "hotel apartment", "action": ["living in the hotel apartment", "using hotel amenities", "receiving service from hotel staff", "experiencing local culture nearby"], "content_original": "酒店公寓"}
+{"category": "sports training", "action": ["participating in physical exercises", "learning new sports techniques", "improving athletic performance", "coaching or mentoring others"], "content_original": "运动培训"}
+{"category": "economic hotel", "action": ["staying at the economic hotel", "dining at the economic hotel", "enjoying entertainment activities", "providing economic hotel services to others"], "content_original": "经济酒店"}
+{"category": "gas station", "action": ["refueling vehicles", "buying snacks and drinks", "using restrooms", "getting directions or assistance"], "content_original": "加油加气站"}
+{"category": "instrument", "action": ["playing the instrument", "learning to play an instrument", "buying or renting an instrument", "listening to music played on an instrument"], "content_original": "乐器"}
+{"category": "parent-child photography", "action": ["capturing special moments", "teaching photography skills", "bonding through creative activities", "preserving memories for years to come"], "content_original": "亲子摄影"}
+{"category": "convenience services", "action": ["purchasing daily necessities", "using self-service kiosks", "accessing package delivery options", "utilizing on-site laundry facilities"], "content_original": "便民服务"}
+{"category": "jewelry watches", "action": ["browsing jewelry collections", "examining watch models", "trying on accessories", "purchasing gifts"], "content_original": "珠宝钟表"}
+{"category": "residential", "action": ["living in a residential area", "working from home", "participating in neighborhood activities", "renovating or decorating the house"], "content_original": "住宅"}
+{"category": "computer", "action": ["typing on the computer", "browsing the internet", "working on documents", "playing games"], "content_original": "电脑"}
+{"category": "star-rated hotel", "action": ["offering luxurious accommodations", "providing exceptional customer service", "having on-site fine dining options", "offering exclusive amenities and services"], "content_original": "星级酒店"}
+{"category": "Pendulum Garden", "action": ["exploring the garden's unique architecture", "admiring the pendulum sculptures", "learning about the artist's inspiration", "taking Instagram-worthy photos"], "content_original": "垂钓园"}
+{"category": "used car dealership", "action": ["browsing available vehicles", "negotiating prices", "test driving cars", "purchasing a used vehicle"], "content_original": "二手车行"}
+{"category": "Cantonese cuisine", "action": ["cooking Cantonese dishes", "trying different flavors of Cantonese food", "learning about the history and culture behind Cantonese cuisine", "sharing Cantonese recipes with others"], "content_original": "粤菜"}
+{"category": "trendy brand", "action": ["showcasing the latest fashion trends", "advertising through social media campaigns", "collaborating with popular influencers", "releasing new product lines seasonally"], "content_original": "潮牌"}
+{"category": "luxury goods bag", "action": ["carrying luxury items", "displaying status symbol", "shopping for high-end products", "traveling in style"], "content_original": "奢侈品包"}
+{"category": "Other wholesale markets", "action": ["browsing various products", "negotiating prices with vendors", "purchasing goods in bulk", "exploring different market stalls"], "content_original": "其他批发市场"}
+{"category": "port of embarkation", "action": ["boarding ships", "unloading cargo", "providing navigation assistance", "facilitating travel arrangements"], "content_original": "口岸渡口"}
+{"category": "freshwater fish", "action": ["fishing for freshwater fish", "cooking and preparing freshwater fish dishes", "learning about the habitats of freshwater fish", "conserving freshwater fish populations"], "content_original": "江河湖海鲜"}
+{"category": "smoke alcohol tea", "action": ["enjoying a cup of tea", "having a glass of alcohol", "smoking a cigarette"], "content_original": "烟酒茶"}
+{"category": "Xinjiang cuisine", "action": ["savoring the flavors of traditional Xinjiang dishes", "trying local specialties such as kebabs and noodles", "drinking tea in a traditional setting", "learning about the cultural influences on Xinjiang's culinary scene"], "content_original": "新疆菜"}
+{"category": "Women's clothing", "action": ["trying on clothes", "browsing through racks", "asking for fashion advice", "purchasing outfits", "returning or exchanging items"], "content_original": "女装"}
+{"category": "Ear, Nose, and Throat Hospital", "action": ["visiting the ENT specialist", "undergoing medical examination", "receiving treatment for ear, nose or throat issues", "consulting with doctors or nurses", "paying hospital bills"], "content_original": "耳鼻喉医院"}
+{"category": "exhibition hall exhibition", "action": ["organizing and hosting exhibitions", "displaying artwork and artifacts", "conducting educational workshops", "attracting visitors and promoting cultural exchange"], "content_original": "展馆展览"}
+{"category": "garden", "action": ["visiting the garden", "planting flowers", "having a picnic", "exercising in the garden"], "content_original": "园林"}
+{"category": "Henan cuisine", "action": ["cooking Henan dishes", "trying local specialties", "visiting food markets", "learning about culinary traditions"], "content_original": "河南菜"}
+{"category": "amusement park", "action": ["riding thrilling roller coasters", "enjoying spectacular live shows", "indulging in sweet treats and snacks", "spending time with family and friends"], "content_original": "游乐园"}
+{"category": "Tableware Kitchenware", "action": ["designing tableware and kitchenware", "manufacturing tableware and kitchenware", "marketing tableware and kitchenware", "using tableware and kitchenware"], "content_original": "餐具厨具"}
+{"category": "Other leisure activities", "action": ["engaging in hobbies", "participating in sports", "attending cultural events", "spending time with family and friends"], "content_original": "其他休闲娱乐"}
+{"category": "truck sales", "action": ["browsing truck models", "negotiating prices", "test driving trucks", "submitting purchase orders"], "content_original": "货车销售"}
+{"category": "soccer field", "action": ["playing soccer", "watching a soccer game", "training on the field", "maintaining the soccer field"], "content_original": "足球场"}
+{"category": "traffic facilities", "action": ["driving on the roads", "using public transportation", "biking or walking paths", "maintaining and repairing infrastructure"], "content_original": "交通设施"}
+{"category": "postpartum shaping", "action": ["exercising for postpartum recovery", "following a healthy diet plan", "attending fitness classes designed for new mothers", "practicing stress-reducing techniques"], "content_original": "产后塑形"}
+{"category": "parent-child education", "action": ["participating in parenting workshops", "enrolling children in educational programs", "spending quality time with family", "seeking advice from experienced parents"], "content_original": "亲子教育"}
+{"category": "laundry shop", "action": ["doing laundry", "using washing machines", "providing dry cleaning services", "offering ironing services"], "content_original": "洗衣店"}
+{"category": "Personal photo", "action": ["taking a selfie", "uploading to social media", "sharing with friends and family", "printing physical copies"], "content_original": "个性写真"}
+{"category": "repeat poi", "action": ["visiting the same points of interest again", "exploring new areas around POIs", "taking photos in front of popular POIs", "sharing experiences about POIs on social media"], "content_original": "重复POI"}
+{"category": "vehicle", "action": ["driving a vehicle", "riding in a vehicle", "maintaining and repairing vehicles", "designing new vehicle models"], "content_original": "车辆"}
+{"category": "hong kong cuisine", "action": ["trying dim sum dishes", "drinking bubble tea", "visiting local markets for food", "learning about cooking techniques"], "content_original": "香港美食"}
+{"category": "Passenger Station", "action": ["boarding trains", "picking up luggage", "using ticket counters", "waiting for departures"], "content_original": "客运站"}
+{"category": "tourist attractions", "action": ["visiting museums and art galleries", "exploring historical landmarks", "participating in cultural festivals", "taking guided tours", "photographing scenic views"], "content_original": "旅游景点"}
+{"category": "Other specialized hospitals", "action": ["providing specialized medical care", "conducting medical research", "offering support services to patients and families", "training medical professionals"], "content_original": "其他专科医院"}
+{"category": "Cardiovascular Hospital", "action": ["providing medical services for heart and blood vessel conditions", "performing surgeries", "conducting research on cardiovascular diseases", "offering patient education and support"], "content_original": "心血管医院"}
+{"category": "luxury goods", "action": ["purchasing luxury items", "showcasing high-end products", "displaying exclusive designs", "marketing premium brands"], "content_original": "奢侈品"}
+{"category": "golf ball", "action": ["hitting the golf ball", "driving the golf ball", "putting the golf ball", "chipping the golf ball"], "content_original": "高尔夫球"}
+{"category": "Sichuan cuisine", "action": ["cooking Sichuan dishes", "eating spicy food", "trying authentic Sichuan restaurants", "learning about Sichuan culinary history"], "content_original": "川菜"}
+{"category": "art training", "action": ["learning various art techniques", "practicing drawing and painting", "creating sculptures and pottery", "participating in art workshops"], "content_original": "美术培训"}
+{"category": "Business Street", "action": ["walking along the street", "visiting shops and stores", "attending business meetings", "networking with other professionals"], "content_original": "商业街"}
+{"category": "other medical", "action": ["administering medications", "performing diagnostic tests", "providing counseling services", "conducting research"], "content_original": "其他医疗"}
+{"category": "research institution", "action": ["conducting scientific research", "publishing research findings", "collaborating with other institutions", "training students and researchers"], "content_original": "科研机构"}
+{"category": "Jewelry City", "action": ["browsing jewelry stores", "purchasing jewelry items", "learning about jewelry making process", "visiting local artisans"], "content_original": "珠宝城"}
+{"category": "luxury goods jewelry watches", "action": ["showcasing exquisite designs", "displaying high-quality craftsmanship", "presenting exclusive materials", "offering personalized customization options"], "content_original": "奢侈品珠宝钟表"}
+{"category": "small eats or snacks", "action": ["buying small eats or snacks", "eating small eats or snacks on the go", "trying different flavors of small eats or snacks", "sharing small eats or snacks with others"], "content_original": "小吃"}
+{"category": "wedding photography", "action": ["capturing special moments", "planning photo shoots", "working with couples to create personalized albums", "editing and retouching photos"], "content_original": "婚庆摄影"}
+{"category": "clock", "action": ["telling time", "setting alarm", "checking schedule", "displaying date"], "content_original": "钟表"}
+{"category": "other office residences", "action": ["working in the office", "attending meetings", "collaborating with colleagues", "managing office tasks"], "content_original": "其他办公住宅"}
+{"category": "school", "action": ["attending classes", "participating in extracurricular activities", "collaborating with teachers and peers", "pursuing academic interests"], "content_original": "学校"}
+{"category": "office residence", "action": ["working in the office", "residing in the office area", "commuting to and from the office", "entertaining clients at the office"], "content_original": "办公住宅"}
+{"category": "other shopping malls", "action": ["browsing through various stores", "trying out food from different restaurants", "attending events or promotions", "socializing with friends and family"], "content_original": "其他商场"}
+{"category": "Tabletop gaming party", "action": ["organizing games and activities", "socializing with other gamers", "enjoying snacks and drinks", "participating in tournaments"], "content_original": "桌游轰趴"}
+{"category": "Korean cuisine", "action": ["cooking Korean dishes", "trying different types of kimchi", "enjoying a traditional Korean BBQ", "learning about the history and culture behind Korean food"], "content_original": "韩国菜"}
+{"category": "other nail and eyelash beauty", "action": ["getting nail art", "enhancing eyelashes", "trying out different beauty treatments", "visiting a salon for services"], "content_original": "其他美甲美睫"}
+{"category": "Children's dance", "action": ["watching a children's dance performance", "participating in a dance workshop for kids", "learning basic dance steps", "enjoying family-friendly dance shows"], "content_original": "少儿舞蹈"}
+{"category": "art museum", "action": ["visiting art exhibitions", "attending cultural events", "learning about art history", "creating own artwork"], "content_original": "美术馆"}
+{"category": "hotel guesthouse", "action": ["staying at the hotel guesthouse", "dining at the hotel guesthouse", "enjoying entertainment activities", "providing hotel guesthouse services to others"], "content_original": "酒店宾馆"}
+{"category": "martial arts combat", "action": ["practicing martial arts techniques", "watching a live martial arts demonstration", "participating in a martial arts tournament", "learning self-defense skills"], "content_original": "武术格斗"}
+{"category": "nourish hair", "action": ["using hair masks", "applying hair oils", "massaging scalp for stimulation", "eating a balanced diet for hair growth"], "content_original": "养发"}
+{"category": "Commercial-residential mixed-use buildings", "action": ["living in the residential area", "working in the commercial area", "shopping at nearby stores", "dining at on-site restaurants or nearby eateries", "entertaining oneself at community facilities", "providing services to other residents and businesses", "maintaining and improving the building's infrastructure"], "content_original": "商住两用楼宇"}
+{"category": "office building", "action": ["working in the office building", "conducting business meetings", "attending conferences or seminars", "maintaining and managing the building facilities"], "content_original": "写字楼"}
+{"category": "industrial park", "action": ["visiting factories and manufacturing facilities", "attending business conferences or events", "exploring innovation hubs", "taking guided tours"], "content_original": "产业园区"}
+{"category": "medical", "action": ["providing medical treatment", "conducting medical research", "prescribing medication", "administering vaccinations"], "content_original": "医疗"}
+{"category": "Other electronic devices", "action": ["using the device for entertainment purposes", "staying connected with others through the device", "accessing information and services provided by the device", "customizing the device to suit personal preferences"], "content_original": "其他数码家电"}
+{"category": "large market", "action": ["browsing stalls", "negotiating prices", "sampling local cuisine", "taking in the atmosphere"], "content_original": "大型市场"}
+{"category": "Agricultural Products Market", "action": ["browsing the market for fresh produce", "negotiating prices with vendors", "sampling local specialties", "purchasing goods to bring home"], "content_original": "农贸市场"}
+{"category": "Flower and Bird Market", "action": ["browsing flowers for sale", "examining various bird species", "negotiating prices with vendors", "taking photos of the market atmosphere"], "content_original": "花鸟市场"}
+{"category": "square", "action": ["visiting the square", "relaxing in the square", "participating in events at the square", "taking photos at the square"], "content_original": "广场"}
+{"category": "makeup style", "action": ["applying makeup", "choosing a makeup look", "learning new makeup techniques", "sharing favorite makeup products"], "content_original": "彩妆造型"}
+{"category": "parent-child", "action": ["spending quality time with children", "enrolling kids in educational activities", "participating in family sports events", "organizing family game nights"], "content_original": "亲子"}
+{"category": "Other family fun activities", "action": ["playing games together", "watching a movie as a family", "going to an amusement park", "participating in a cooking class"], "content_original": "其他亲子游乐"}
+{"category": "antique calligraphy and paintings", "action": ["appreciating the artistry of ancient calligraphers", "studying the techniques used in traditional painting", "learning about the historical context behind each piece", "visiting museums to see these artworks up close", "purchasing or commissioning a piece for personal enjoyment"], "content_original": "古玩字画"}
+{"category": "car city", "action": ["driving through the city", "visiting car manufacturers", "exploring car museums", "participating in automotive events"], "content_original": "汽车城"}
+{"category": "Hui cuisine", "action": ["cooking Hui dishes", "trying different Anhui recipes", "learning about the history of Hui cuisine", "sharing Hui culinary experiences with others"], "content_original": "徽菜"}
+{"category": "Children host the performance", "action": ["organizing and rehearsing for the event", "preparing stage decorations and props", "inviting guests to attend the performance", "executing the performance with confidence and enthusiasm", "interacting with the audience before or after the show"], "content_original": "儿童主持表演"}
+{"category": "Beauty car wash", "action": ["washing and cleaning cars", "using specialized equipment for detailing", "applying protective coatings to maintain appearance", "offering additional services like interior cleaning"], "content_original": "美容洗车"}
+{"category": "tennis court", "action": ["playing tennis", "practicing serves", "improving backhand skills", "joining a tennis tournament"], "content_original": "网球场"}
+{"category": "motorcycles & electric vehicles & bicycles", "action": ["riding a motorcycle", "driving an electric vehicle", "riding a bicycle", "manufacturing motorcycles and electric vehicles", "designing new models of bicycles", "promoting the use of eco-friendly transportation"], "content_original": "摩托&电动车&自行车"}
+{"category": "Beauty Nails Beauty Eyelashes", "action": ["getting nail beauty treatment", "getting eyelash beauty treatment", "consulting with beautician", "choosing nail and eyelash designs"], "content_original": "美甲美睫"}
+{"content_original": "美发养发"}
+{"category": "other building materials for homes", "action": ["researching different materials", "comparing prices and quality", "selecting suitable materials for the project", "ensuring compliance with regulations"], "content_original": "其他家居建材"}
+{"category": "Children's swimming", "action": ["swimming lessons for kids", "water games and activities", "parent-child swim time", "swim team practice"], "content_original": "儿童游泳"}
+{"content_original": "骨科医院"}
+{"category": "shopping mall", "action": ["browsing stores", "trying out restaurants", "attending events", "socializing with friends"], "content_original": "商场"}
+{"category": "financial services", "action": ["managing investments", "providing loans", "offering financial advice", "processing transactions"], "content_original": "金融服务"}
+{"category": "Living Goods Store", "action": ["browsing products", "purchasing goods", "receiving customer service", "learning about new products"], "content_original": "生活集合店"}
+{"category": "other convenience stores", "action": ["buying daily necessities", "purchasing snacks and drinks", "using self-service kiosks", "paying bills"], "content_original": "其他超市便利"}
+{"category": "Children's Wushu Fist Style", "action": ["practicing Wushu techniques", "performing in a show", "learning new moves", "improving physical fitness"], "content_original": "儿童武术拳类"}
+{"category": "parent-child shopping", "action": ["browsing children's clothing stores", "visiting family-friendly attractions", "enjoying quality time together", "purchasing age-appropriate toys and gifts"], "content_original": "亲子购物"}
+{"category": "basketball court", "action": ["playing basketball", "watching a basketball game", "practicing dribbling and shooting", "organizing a basketball tournament"], "content_original": "篮球场"}
+{"category": "other schools", "action": ["attending classes", "participating in extracurricular activities", "collaborating with teachers and peers", "pursuing personal interests outside of academics"], "content_original": "其他学校"}
+{"category": "Yunnan cuisine", "action": ["cooking Yunnan dishes", "savoring the flavors of Yunnan", "discovering local ingredients", "learning about Yunnan's culinary traditions"], "content_original": "云贵菜"}

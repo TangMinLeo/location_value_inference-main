@@ -1,0 +1,35 @@
+services:
+  location-value-inference:
+    image: location-value-inference:vlee1.1
+    container_name: location-value-inference2
+    restart: unless-stopped
+
+    # 启用 GPU 支持（需安装 NVIDIA Container Toolkit）
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONDONTWRITEBYTECODE=1
+      - PYTHONPATH=/app
+      - TZ=Asia/Shanghai
+
+    shm_size: 2.39gb
+
+    working_dir: /app
+
+    # ports:
+    #   - "8000:8000"
+
+    volumes:
+      # 挂载整个项目源码以支持热更新（开发模式）
+      - .:/app
+
+    command: ["bash"]
+    stdin_open: true
+    tty: true
